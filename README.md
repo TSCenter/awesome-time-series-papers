@@ -7,7 +7,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-🚩 2025/5/12: **Add KDD 2025 Papers**
+🚩 2025/6/25: **Add KDD 2025 Papers (February 2025)**
+
+🚩 2025/5/12: **Add KDD 2025 Papers (August 2024)**
 
 🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛(indicating high citations)**
 
@@ -62,9 +64,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2505.23116) | [Code](https://github.com/mumiao2000/CrossLinear) | KDD 2025 |
 | [Performative Time-Series Forecasting](https://arxiv.org/pdf/2310.06077) | [Code](https://github.com/AdityaLab/pets) | KDD 2025 |
 | [SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting](https://arxiv.org/pdf/2408.12068v3) | [Code](https://github.com/YukinoAsuna/SAMBA) | KDD 2025 |
-| [Stochastic Diffusion: A Diffusion Based Model for Stochastic Time Series Forecasting](https://arxiv.org/pdf/2406.02827) | None | KDD 2025 |
 | [Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning](https://arxiv.org/pdf/2502.15296) | [Code](https://github.com/mb-Ma/STEV) | KDD 2025 |
 | [Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates](https://arxiv.org/abs/2506.12459) | [Code](https://github.com/ChengqingYu/Merlin) | KDD 2025 |
 | [TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations](https://arxiv.org/pdf/2504.12721) | [Code](https://github.com/Luoauoa/TimeCapsule) | KDD 2025 |
