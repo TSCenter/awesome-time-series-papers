@@ -62,6 +62,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Performative Time-Series Forecasting](https://arxiv.org/pdf/2310.06077) | [Code](https://github.com/AdityaLab/pets) | KDD 2025 |
+| [SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting](https://arxiv.org/pdf/2408.12068v3) | [Code](https://github.com/YukinoAsuna/SAMBA) | KDD 2025 |
+| [Stochastic Diffusion: A Diffusion Based Model for Stochastic Time Series Forecasting](https://arxiv.org/pdf/2406.02827) | None | KDD 2025 |
+| [Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning](https://arxiv.org/pdf/2502.15296) | [Code](https://github.com/mb-Ma/STEV) | KDD 2025 |
+| [Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates](https://arxiv.org/abs/2506.12459) | [Code](https://github.com/ChengqingYu/Merlin) | KDD 2025 |
+| [TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations](https://arxiv.org/pdf/2504.12721) | [Code](https://github.com/Luoauoa/TimeCapsule) | KDD 2025 |
 | [Multi-period Learning for Financial Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709422) | None | KDD 2025 |
 | [Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709210) | None | KDD 2025 |
 | [ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709254) | None | KDD 2025 |
@@ -239,6 +245,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements](https://arxiv.org/pdf/2502.04592) | None | AAAI 2025 |
 | [Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](https://arxiv.org/abs/2410.05602) | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
 | [Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows](https://arxiv.org/abs/2402.06293) | [Code](github.com/yalavarthivk/ProFITi) | AAAI 2025 |
 | [TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis](https://arxiv.org/abs/2412.12886) | None | AAAI 2025 |
