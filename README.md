@@ -5,6 +5,8 @@
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including forecasting, anomaly detection, early classification, irregular time series learning, representation learning, and more. **Feel free to suggest notable works in the issues or submit a pull request!**
 
+**Star us on GitHub if you find this project helpful.⭐⭐⭐**
+
 ## Some Additional Information
 
 🚩 2025/6/25: **Add KDD 2025 Papers (February 2025)**
