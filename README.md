@@ -9,6 +9,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/7/12: **Add SIGMOD 2025 Papers**
+
+🚩 2025/7/11: **Add Data Processing Part**
+
 🚩 2025/6/25: **Add KDD 2025 Papers (February 2025)**
 
 🚩 2025/5/12: **Add KDD 2025 Papers (August 2024)**
@@ -51,6 +55,8 @@ This repository is a comprehensive collection of recent research papers and reso
   [Time Series Causal Discovery](#time-series-causal-discovery)
 
   [Time Series Classification](#time-series-classification)
+
+  [Time Series Data Processing](#time-series-data-processing)
 
   [Theory Resource](#theory-resource)
   
@@ -257,6 +263,15 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e) | [Code](https://github.com/usail-hkust/t-PatchGNN) | ICML 2024|
 | [EMIT - Event Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/abs/2409.16554) | [Code](https://github.com/hrishi-ds/EMIT) | ICDM 2024 |
 
+
+## Time Series Data Processing
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
+| [The Best of Both Worlds: On Repairing Timestamps and Attribute Values for Multivariate Time Series](https://dl.acm.org/doi/10.1145/3725367) | [Code](https://github.com/erssss/TAVhub) | SIGMOD 2025 |
+| [Largest Triangle Sampling for Visualizing Time Series in Database](https://dl.acm.org/doi/10.1145/3709699) | [Code]( https://github.com/apache/iotdb/tree/research/LTS-visualization) | SIGMOD 2025 |
+| [In-Database Time Series Clustering](https://dl.acm.org/doi/pdf/10.1145/3709696) | [Code](https://github.com/indb-ts-cluster/indb-ts-cluster) | SIGMOD 2025 |
+| [Camel: Efficient Compression of Floating-Point Time Series](https://dl.acm.org/doi/pdf/10.1145/3698802) | [Code](https://github.com/yoyo185644/camel) | SIGMOD 2025 |
+| [Multivariate Time Series Cleaning under Speed Constraints](https://arxiv.org/abs/2411.01214) | [Code](https://anonymous.4open.science/r/mtcsc-E4CC) | SIGMOD 2025 |
 
 ## Time Series Representation Learning
 | Method Name | Code | Source |
