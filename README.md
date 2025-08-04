@@ -74,7 +74,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting](https://arxiv.org/abs/2505.02011) | [Code](https://github.com/lmh9507/CASA) | IJICAI 2025 |
+| [CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting](https://arxiv.org/abs/2505.02011) | [Code](https://github.com/lmh9507/CASA) | IJCAI 2025 |
 | [CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2505.23116) | [Code](https://github.com/mumiao2000/CrossLinear) | KDD 2025 |
 | [Performative Time-Series Forecasting](https://arxiv.org/pdf/2310.06077) | [Code](https://github.com/AdityaLab/pets) | KDD 2025 |
 | [SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting](https://arxiv.org/pdf/2408.12068v3) | [Code](https://github.com/YukinoAsuna/SAMBA) | KDD 2025 |
@@ -297,7 +297,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJICAI 2025 |
+| [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
 | [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://openreview.net/pdf?id=SbEFbBhNRd) | None | WWW 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [PPT: Patch Order Do Matters In Time Series Pretext Task](https://openreview.net/forum?id=7zwIEbSTDy) | None | ICLR 2025 |
