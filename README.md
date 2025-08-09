@@ -74,6 +74,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Non-collective Calibrating Strategy for Time Series Forecasting](https://www.arxiv.org/abs/2506.03176) | [Code](https://github.com/hanyuki23/SoP) | IJCAI 2025 |
 | [CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting](https://arxiv.org/abs/2505.02011) | [Code](https://github.com/lmh9507/CASA) | IJCAI 2025 |
 | [CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2505.23116) | [Code](https://github.com/mumiao2000/CrossLinear) | KDD 2025 |
 | [Performative Time-Series Forecasting](https://arxiv.org/pdf/2310.06077) | [Code](https://github.com/AdityaLab/pets) | KDD 2025 |
@@ -198,30 +199,11 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) | [Code](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021 |
 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 |
 
-<!-- ### 2020
-
-| Method Name | Code | Source |
-| ------- | ------ | ------ |
-| [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) | [Code](https://github.com/huawei-noah/BHT-ARIMA) | AAAI 2020 |
-| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | None | NeurIPS 2020 |
-<!-- | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 | -->
-<!-- 
-
-### Some Significant Papers💛
-
-| Method Name | Code | Source |
-| ------- | ------ | ------ |
-| **[TimeMixer](https://arxiv.org/pdf/2405.14616)** 💛 | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
-| **[iTransformer](https://arxiv.org/abs/2310.06625)** 💛 | [Code](https://github.com/thuml/Time-Series-Library) | ICLR 2024 |
-| **[PatchTST](https://arxiv.org/abs/2211.14730)** 💛 | [Code](https://github.com/PatchTST/PatchTST) | ICLR 2023 |
-| **[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)** 💛 | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
-| **[TimesNet](https://arxiv.org/abs/2210.02186)** 💛 | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
-<!-- | **[Autoformer](https://arxiv.org/abs/2106.13008)**  | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 | --> 
-
 
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines](https://www.arxiv.org/abs/2505.06333) | [Code](https://github.com/ChathurangiShyalika/NSF-MAP) | IJCAI 2025 |
 | [Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels](https://dl.acm.org/doi/10.1145/3690624.3709257) | None | KDD 2025 |
 | [TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3690624.3709266) | None | KDD 2025 | 
 | [Learn hybrid prototypes for multivariate time series anomaly detection](https://openreview.net/forum?id=8TBGdH3t6a) | None | ICLR 2025 |
@@ -270,6 +252,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Data Processing
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation](https://arxiv.org/abs/2503.04164) | None | IJCAI 2025 |
 | [The Best of Both Worlds: On Repairing Timestamps and Attribute Values for Multivariate Time Series](https://dl.acm.org/doi/10.1145/3725367) | [Code](https://github.com/erssss/TAVhub) | SIGMOD 2025 |
 | [Largest Triangle Sampling for Visualizing Time Series in Database](https://dl.acm.org/doi/10.1145/3709699) | [Code]( https://github.com/apache/iotdb/tree/research/LTS-visualization) | SIGMOD 2025 |
 | [In-Database Time Series Clustering](https://dl.acm.org/doi/pdf/10.1145/3709696) | [Code](https://github.com/indb-ts-cluster/indb-ts-cluster) | SIGMOD 2025 |
@@ -279,6 +262,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Comprehensive Review of Neural Differential Equations for Time Series Analysis](https://arxiv.org/abs/2502.09885) | None | IJCAI 2025 |
+| [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869) | [Code](https://github.com/D2I-Group/awesome-vision-time-series) | IJCAI 2025 |
 | [Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation](https://dl.acm.org/doi/10.1145/3690624.3709239) | None | KDD 2025 |
 | [Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://openreview.net/forum?id=trPIg0ECvv#discussion) | None | WWW 2025 |
 | [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
