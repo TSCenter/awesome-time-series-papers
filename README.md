@@ -74,6 +74,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2501.13989) | [Code](https://anonymous.4open.science/r/FreEformer) | IJCAI 2025 |
+| [Conditional Information Bottleneck-Based Multivariate Time Series Forecasting](https://openreview.net/forum?id=K1mcPiDdOJ) | [Code](https://github.com/Xinhui-Lee/CIB-MTSF) | IJCAI 2025 |
+| [A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting](https://arxiv.org/abs/2506.00798) | [Code](https://github.com/komorebi424/DST-SGNN) | IJCAI 2025 |
 | [Non-collective Calibrating Strategy for Time Series Forecasting](https://www.arxiv.org/abs/2506.03176) | [Code](https://github.com/hanyuki23/SoP) | IJCAI 2025 |
 | [CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting](https://arxiv.org/abs/2505.02011) | [Code](https://github.com/lmh9507/CASA) | IJCAI 2025 |
 | [CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2505.23116) | [Code](https://github.com/mumiao2000/CrossLinear) | KDD 2025 |
@@ -276,6 +279,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Causal Discovery
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism](https://www.arxiv.org/abs/2505.07180) | None | IJCAI 2025 |
 | [DyCAST: Learning Dynamic Causal Structure from Time Series](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3DWjDjem8mWE) | None | ICLR 2025 |
 | [CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series](https://openreview.net/forum?id=wmV4cIbgl6) | [Code](https://openreview.net/forum?id=wmV4cIbgl6) | ICLR 2025 |
 
