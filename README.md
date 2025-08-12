@@ -287,7 +287,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
-| [Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | [Code](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | PAKDD 2025 |
+| [Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](https://link.springer.com/chapter/10.1007/978-981-96-8183-9_16) | [Code](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | PAKDD 2025 |
 | [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://openreview.net/pdf?id=SbEFbBhNRd) | None | WWW 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [Advancing Time Series Classification with Multimodal Language Modeling](https://arxiv.org/abs/2403.12371) | [Code](https://github.com/Mingyue-Cheng/InstructTime) | WSDM 2024|
