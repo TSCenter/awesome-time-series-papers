@@ -9,6 +9,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/10/2: **Add NeurIPS 2025 Papers**
+
 🚩 2025/8/4: **Add IJCAI 2025 Papers**
 
 🚩 2025/7/12: **Add SIGMOD 2025 Papers**
@@ -70,10 +72,23 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Time Series Forecasting
 
-### 2024
+### 2025
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928) | [Code](https://github.com/mauricekraus/xLSTM-Mixer) | NeurIPS 2025 |
+| [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://arxiv.org/abs/2410.09836) | [Code](https://github.com/syrGitHub/TFPS) | NeurIPS 2025 |
+| [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](https://arxiv.org/abs/2505.23719) | [Code](https://github.com/NX-AI/tirex) | NeurIPS 2025 |
+| [TransDF: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/abs/2505.17847) | [Code](https://anonymous.4open.science/r/TransDF-88CF) | NeurIPS 2025 |
+| [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550) | [Code](https://anonymous.4open.science/r/OLinear) | NeurIPS 2025 |
+| [Neural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction](https://arxiv.org/abs/2506.04542) | [Code](https://github.com/YuanpeiG/neural-MJD) | NeurIPS 2025 |
+| [Selective Learning for Deep Time Series Forecasting](https://openreview.net/forum?id=iHYCdTAOqF) | [Code](https://github.com/JonasBrusokas/Time-Energy-Model) | NeurIPS 2025 |
+| [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
+| [Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](https://arxiv.org/abs/2503.01013) | None | NeurIPS 2025 |
+| [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/pdf/2502.12920) | None | NeurIPS 2025 |
+| [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](https://neurips.cc/virtual/2025/poster/115701) | None | NeurIPS 2025 |
+| [Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2505.24003) | None | NeurIPS 2025 |
+| [Conformal Prediction for Time-series Forecasting with Change Points](https://www.arxiv.org/abs/2509.02844) | None | NeurIPS 2025 |
 | [FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2501.13989) | [Code](https://anonymous.4open.science/r/FreEformer) | IJCAI 2025 |
 | [Conditional Information Bottleneck-Based Multivariate Time Series Forecasting](https://openreview.net/forum?id=K1mcPiDdOJ) | [Code](https://github.com/Xinhui-Lee/CIB-MTSF) | IJCAI 2025 |
 | [A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting](https://arxiv.org/abs/2506.00798) | [Code](https://github.com/komorebi424/DST-SGNN) | IJCAI 2025 |
