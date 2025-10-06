@@ -1,4 +1,4 @@
-# awesome-time-series-papers
+# Awesome Time Series Papers
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers
 )
 
