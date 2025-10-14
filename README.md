@@ -9,6 +9,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/10/14: **Add Time Series Foundation Model Part**
+
 🚩 2025/10/2: **Add NeurIPS 2025 Papers**
 
 🚩 2025/8/4: **Add IJCAI 2025 Papers**
@@ -50,6 +52,8 @@ This repository is a comprehensive collection of recent research papers and reso
   
   [Time Series Anomaly Detection](#time-series-anomaly-detection)([Some Significant Papers](#time-series-anomaly-detection))
 
+  [Time Series Foundation Model](#time-series-foundation-model)
+
   [Time Series Early Classification](#time-series-early-classification) ([Some Significant Papers](#time-series-early-classification))
 
   [Irregular Time Series Learning](#irregular-time-series-learning)
@@ -76,6 +80,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning](https://www.arxiv.org/abs/2510.04908) | [Code](https://github.com/Jimmy-7664/ST-SSDL) | NeurIPS 2025 |
 | [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928) | [Code](https://github.com/mauricekraus/xLSTM-Mixer) | NeurIPS 2025 |
 | [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://arxiv.org/abs/2410.09836) | [Code](https://github.com/syrGitHub/TFPS) | NeurIPS 2025 |
 | [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](https://arxiv.org/abs/2505.23719) | [Code](https://github.com/NX-AI/tirex) | NeurIPS 2025 |
@@ -83,7 +88,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550) | [Code](https://anonymous.4open.science/r/OLinear) | NeurIPS 2025 |
 | [Neural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction](https://arxiv.org/abs/2506.04542) | [Code](https://github.com/YuanpeiG/neural-MJD) | NeurIPS 2025 |
 | [Selective Learning for Deep Time Series Forecasting](https://openreview.net/forum?id=iHYCdTAOqF) | [Code](https://github.com/JonasBrusokas/Time-Energy-Model) | NeurIPS 2025 |
-| [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
+| [On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](https://arxiv.org/pdf/2408.09695v2) | None | NeurIPS 2025 |
 | [Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](https://arxiv.org/abs/2503.01013) | None | NeurIPS 2025 |
 | [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/pdf/2502.12920) | None | NeurIPS 2025 |
 | [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](https://neurips.cc/virtual/2025/poster/115701) | None | NeurIPS 2025 |
@@ -221,6 +226,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection](https://arxiv.org/abs/2509.24414) | [Code](https://github.com/jk-sounds/ScatterAD) | NeurIPS 2025 |
 | [NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines](https://www.arxiv.org/abs/2505.06333) | [Code](https://github.com/ChathurangiShyalika/NSF-MAP) | IJCAI 2025 |
 | [Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels](https://dl.acm.org/doi/10.1145/3690624.3709257) | None | KDD 2025 |
 | [TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3690624.3709266) | None | KDD 2025 | 
@@ -247,6 +253,19 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/9601669) | None | CCDC 2021 |
 | [Variational Transformer-based anomaly detection approach for multivariate time series](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914) | None | Measurement 2022 |
 
+## Time Series Foundation Model
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
+| [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195) | [Code](https://github.com/SJTU-DMTai/Prune-then-Finetune) |  NeurIPS 2025 |
+| [Synthetic Series-Symbol Data Generation for Time Series Foundation Models](https://arxiv.org/abs/2510.08445) | [Code](https://github.com/wwhenxuan/SymTime) | NeurIPS 2025 |
+| [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087) | [Code](https://github.com/zqiao11/MSFT) | NeurIPS 2025 |
+| [This Time is Different: An Observability Perspective on Time Series Foundation Models](https://arxiv.org/abs/2505.14766) | [Code](https://github.com/DataDog/toto) | NeurIPS 2025 |
+| [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
+| [Investigating Hallucinations in Time Series Foundation Models through Signal Subspace Analysis](https://dynresmanagement.com/uploads/3/5/2/7/35274584/tsfm.pdf) | None | NeurIPS 2025 |
+| [Lightweight Online Adaption for Time Series Foundation Model Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) | None | ICML 2025 |
+| [MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584) | None | NeurIPS 2025 | 
+
+
 ## Time Series Early Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
@@ -258,6 +277,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Glocal Information Bottleneck for Time Series Imputation](https://www.arxiv.org/abs/2510.04910) | [Code](https://github.com/Muyiiiii/NeurIPS-25-Glocal-IB) | NeurIPS 2025 |
+| [A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking](https://arxiv.org/abs/2510.06699) | [Code](https://github.com/azencot-group/ImagenI2R) | NeurIPS 2025 |
+| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://arxiv.org/abs/2506.10412) | [Code](https://anonymous.4open.science/r/IMMTSF_NeurIPS2025/README.md) | NeurIPS 2025 | 
 | [CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements](https://arxiv.org/pdf/2502.04592) | None | AAAI 2025 |
 | [Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](https://arxiv.org/abs/2410.05602) | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
 | [Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows](https://arxiv.org/abs/2402.06293) | [Code](github.com/yalavarthivk/ProFITi) | AAAI 2025 |
@@ -280,6 +302,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TRACE: Contrastive learning for multi-trial time series data in neuroscience](https://arxiv.org/pdf/2506.04906) | [Code](https://osf.io/x7qsm/?view_only=e5fd82164c8a4a30807cdba400d80c28) | NeurIPS 2025 |
+| [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/abs/2509.25278) | [Code](https://github.com/payalmohapatra/MAESTRO) | NeurIPS 2025 |
+|[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114) | None | NeurIPS 2025 | 
 | [Comprehensive Review of Neural Differential Equations for Time Series Analysis](https://arxiv.org/abs/2502.09885) | None | IJCAI 2025 |
 | [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869) | [Code](https://github.com/D2I-Group/awesome-vision-time-series) | IJCAI 2025 |
 | [Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation](https://dl.acm.org/doi/10.1145/3690624.3709239) | None | KDD 2025 |
