@@ -90,7 +90,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Selective Learning for Deep Time Series Forecasting](https://openreview.net/forum?id=iHYCdTAOqF) | [Code](https://github.com/JonasBrusokas/Time-Energy-Model) | NeurIPS 2025 |
 | [On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](https://arxiv.org/pdf/2408.09695v2) | None | NeurIPS 2025 |
 | [Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](https://arxiv.org/abs/2503.01013) | None | NeurIPS 2025 |
-| [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/pdf/2502.12920) | None | NeurIPS 2025 |
 | [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](https://neurips.cc/virtual/2025/poster/115701) | None | NeurIPS 2025 |
 | [Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2505.24003) | None | NeurIPS 2025 |
 | [Conformal Prediction for Time-series Forecasting with Change Points](https://www.arxiv.org/abs/2509.02844) | None | NeurIPS 2025 |
@@ -164,7 +163,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://arxiv.org/abs/2406.09130) | [Code](https://github.com/AdityaLab/FOIL) | ICML 2024|
 | [Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series](https://openreview.net/pdf?id=55HfvJ6lDB) | None | ICML 2024|
 | [SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/abs/2405.00946) | [Code](https://github.com/lss-1138/SparseTSF) | ICML 2024|
-| [A decoder-only foundation model for time-series forecasting💛⭐](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
 | [SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting](https://icml.cc/virtual/2024/poster/33594) | None | ICML 2024|
 | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/pdf/2403.01673) | [Code](https://github.com/LJC-FVNR/CATS) | ICML 2024|
 | [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | ICML 2024|
@@ -261,9 +259,11 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087) | [Code](https://github.com/zqiao11/MSFT) | NeurIPS 2025 |
 | [This Time is Different: An Observability Perspective on Time Series Foundation Models](https://arxiv.org/abs/2505.14766) | [Code](https://github.com/DataDog/toto) | NeurIPS 2025 |
 | [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
+| [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/pdf/2502.12920) | None | NeurIPS 2025 |
 | [Investigating Hallucinations in Time Series Foundation Models through Signal Subspace Analysis](https://dynresmanagement.com/uploads/3/5/2/7/35274584/tsfm.pdf) | None | NeurIPS 2025 |
 | [Lightweight Online Adaption for Time Series Foundation Model Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) | None | ICML 2025 |
 | [MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584) | None | NeurIPS 2025 | 
+| [A decoder-only foundation model for time-series forecasting💛⭐](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
 
 
 ## Time Series Early Classification
