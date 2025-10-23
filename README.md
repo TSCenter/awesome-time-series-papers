@@ -88,7 +88,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
 | [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
 | [CMoS: Rethinking Time Series Prediction Through the Lens of Chunk‑wise Spatial Correlations](https://arxiv.org/abs/2505.19090) | [Code](https://github.com/CSTCloudOps/CMoS) | ICML 2025 |
-| [TimeStacker: A Novel Framework with Multilevel Observation for Capturing Non‑stationary Patterns in Time Series Forecasting](https://openreview.net/pdf?id=5RYSqSKz9b) | | ICML 2025 |
+| [TimeStacker: A Novel Framework with Multilevel Observation for Capturing Non‑stationary Patterns in Time Series Forecasting](https://openreview.net/pdf?id=5RYSqSKz9b) | None | ICML 2025 |
 | [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)   | [Code](https://github.com/decisionintelligence/LightGTS) | ICML 2025 |
 | [Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting](https://openreview.net/pdf?id=kcUNMKqrCg) | [Code](https://github.com/quest-lab-iisc/CNDiff)  | ICML 2025 |
 | [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249)  | [Code](https://github.com/kutaytire/Retrieval-Augmented-Time-Series-Forecasting) | ICML 2025 |
