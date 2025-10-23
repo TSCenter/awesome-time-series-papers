@@ -88,7 +88,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
 | [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
 | [CMoS: Rethinking Time Series Prediction Through the Lens of Chunk‑wise Spatial Correlations](https://arxiv.org/abs/2505.19090) | [Code](https://github.com/CSTCloudOps/CMoS) | ICML 2025 |
-| [TimeStacker: A Novel Framework with Multilevel Observation for Capturing Non‑stationary Patterns in Time Series Forecasting](https://openreview.net/pdf?id=5RYSqSKz9b) | None | ICML 2025 |
 | [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)   | [Code](https://github.com/decisionintelligence/LightGTS) | ICML 2025 |
 | [Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting](https://openreview.net/pdf?id=kcUNMKqrCg) | [Code](https://github.com/quest-lab-iisc/CNDiff)  | ICML 2025 |
 | [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249)  | [Code](https://github.com/kutaytire/Retrieval-Augmented-Time-Series-Forecasting) | ICML 2025 |
@@ -98,6 +97,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TimeBridge: Non‑Stationarity Matters for Long‑term Time Series Forecasting](https://arxiv.org/abs/2410.04442)  | [Code](https://github.com/Hank0626/TimeBridge) | ICML 2025 |
 | [TimePro: Efficient Multivariate Long‑term Time Series Forecasting with Variable‑ and Time‑Aware Hyper‑state](https://arxiv.org/abs/2505.20774)  | [Code](https://arxiv.org/pdf/2505.20774) | ICML 2025 |
 | [Winner‑takes‑all for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2506.05515) | [Code](https://github.com/Victorletzelter/timeMCL) | ICML 2025 |
+| [TimeStacker: A Novel Framework with Multilevel Observation for Capturing Non‑stationary Patterns in Time Series Forecasting](https://openreview.net/pdf?id=5RYSqSKz9b) | None | ICML 2025 |
 | [How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning](https://www.arxiv.org/abs/2510.04908) | [Code](https://github.com/Jimmy-7664/ST-SSDL) | NeurIPS 2025 |
 | [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928) | [Code](https://github.com/mauricekraus/xLSTM-Mixer) | NeurIPS 2025 |
 | [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://arxiv.org/abs/2410.09836) | [Code](https://github.com/syrGitHub/TFPS) | NeurIPS 2025 |
