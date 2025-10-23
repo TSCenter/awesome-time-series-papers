@@ -263,6 +263,11 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
 | [Investigating Hallucinations in Time Series Foundation Models through Signal Subspace Analysis](https://dynresmanagement.com/uploads/3/5/2/7/35274584/tsfm.pdf) | None | NeurIPS 2025 |
 | [MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584) | None | NeurIPS 2025 | 
+| [Exploring Representations and Interventions in Time Series Foundation Models](https://arxiv.org/abs/2409.12915) | [Code](https://github.com/moment-timeseries-foundation-model/representations-in-tsfms) | ICML 2025 |
+| [Sundial: A Family of Highly Capable Time Series Foundation Models](https://arxiv.org/abs/2502.00816) | [Code](https://github.com/thuml/Sundial) | ICML 2025 | 
+| [AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.10235) | [Code](https://github.com/abenechehab/AdaPTS) | ICML 2025 |
+| [Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts](https://arxiv.org/pdf/2410.10469) | None | ICML 2025 |
+| [Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization](https://arxiv.org/abs/2412.05244) | None | ICML 2025 |
 | [Lightweight Online Adaption for Time Series Foundation Model Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) | None | ICML 2025 |
 | [A decoder-only foundation model for time-series forecasting💛⭐](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
 
