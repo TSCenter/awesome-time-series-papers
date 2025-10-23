@@ -1,6 +1,8 @@
 # Awesome Time Series Papers
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers
-)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/TSCenter/awesome-time-series-papers.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Forks](https://img.shields.io/github/forks/TSCenter/awesome-time-series-papers.svg?style=social&label=Fork&maxAge=2592000
+) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers
+) 
 
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including time series forecasting, time series anomaly detection, time series early classification, irregular time series learning, time series representation learning, and more. **Feel free to suggest notable works in the issues or submit a pull request!**
@@ -259,7 +261,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087) | [Code](https://github.com/zqiao11/MSFT) | NeurIPS 2025 |
 | [This Time is Different: An Observability Perspective on Time Series Foundation Models](https://arxiv.org/abs/2505.14766) | [Code](https://github.com/DataDog/toto) | NeurIPS 2025 |
 | [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
-| [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/pdf/2502.12920) | None | NeurIPS 2025 |
 | [Investigating Hallucinations in Time Series Foundation Models through Signal Subspace Analysis](https://dynresmanagement.com/uploads/3/5/2/7/35274584/tsfm.pdf) | None | NeurIPS 2025 |
 | [MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584) | None | NeurIPS 2025 | 
 | [Lightweight Online Adaption for Time Series Foundation Model Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) | None | ICML 2025 |
