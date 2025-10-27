@@ -11,7 +11,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-🚩 2025/10/27: **Mark Some Recommended Papers⭐**
+🚩 2025/10/27: **Add Some Recommended Papers⭐**
 
 🚩 2025/10/23: **Add ICML 2025 Papers**
 
