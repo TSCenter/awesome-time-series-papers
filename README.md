@@ -43,6 +43,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 <details>
 <summary><b>🗂️ View 2024 Update History</b></summary>
+<hr>
 
 🚩 2024/12/23: **Add ICDM 2025 Papers**
 
