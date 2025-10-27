@@ -41,6 +41,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 🚩 2025/1/23: **Add AAAI 2025 Papers**
 
+<details>
+<summary><b>🗂️ View 2024 Update History</b></summary>
+
 🚩 2024/12/23: **Add ICDM 2025 Papers**
 
 🚩 2024/12/8: **Add VLDB 2024 Papers**
@@ -50,6 +53,9 @@ This repository is a comprehensive collection of recent research papers and reso
 🚩 2024/10/11: **Add ICML 2024 Papers**
 
 🚩 2024/9/4: **Add KDD 2024 Papers**
+
+</details>
+
 
 ## Cateloge
 <div align="center">
