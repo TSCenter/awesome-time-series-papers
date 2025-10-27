@@ -11,6 +11,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/10/27: **Mark Some Significant Papers💛 and Recommended Papers⭐**
+
 🚩 2025/10/23: **Add ICML 2025 Papers**
 
 🚩 2025/10/14: **Add Time Series Foundation Model Part**
@@ -167,14 +169,14 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective](https://arxiv.org/abs/2402.11463) | None | NeurIPS 2024|
 | [Frequency Adaptive Normalization For Non-stationary Time Series Forecasting](https://arxiv.org/abs/2409.20371) | [Code](https://github.com/wayne155/FAN) | NeurIPS 2024|
 | [Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](https://arxiv.org/pdf/2409.18696) | [Code](https://github.com/ForestsKing/GLAFF) | NeurIPS 2024|
-| [AutoTimes: Autoregressive Time Series Forecasters via Large Language Models](https://arxiv.org/abs/2402.02370) | [Code](https://github.com/thuml/AutoTimes) | NeurIPS 2024|
+| [AutoTimes: Autoregressive Time Series Forecasters via Large Language Models⭐](https://arxiv.org/abs/2402.02370) | [Code](https://github.com/thuml/AutoTimes) | NeurIPS 2024|
 | [BackTime: Backdoor Attacks on Multivariate Time Series Forecasting](https://arxiv.org/pdf/2410.02195) | [Code](https://github.com/xiaolin-cs/BackTime) | NeurIPS 2024|
-| [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964) | [Code](https://github.com/BennyTMT/LLMsForTimeSeries) | NeurIPS 2024|
+| [Are Language Models Actually Useful for Time Series Forecasting?⭐](https://arxiv.org/abs/2406.16964) | [Code](https://github.com/BennyTMT/LLMsForTimeSeries) | NeurIPS 2024|
 | [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929) | [Code](https://github.com/AdityaLab/FOIL) | NeurIPS 2024|
 | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197) | [Code](https://github.com/Secilia-Cxy/SOFTS) | NeurIPS 2024|
 | [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://arxiv.org/abs/2409.18479) | [Code](https://github.com/ACAT-SCUT/CycleNet) | NeurIPS 2024|
 | [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) | [Code](https://github.com/RafaDD/CondTSF) | NeurIPS 2024|
-| [Scaling Law for Time Series Forecasting](https://arxiv.org/pdf/2405.15124) | [Code](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) | NeurIPS 2024|
+| [Scaling Law for Time Series Forecasting⭐](https://arxiv.org/pdf/2405.15124) | [Code](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) | NeurIPS 2024|
 | [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515) | [Code](https://github.com/ameliawong1996/From_News_to_Forecast) | NeurIPS 2024|
 | [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/pdf/2402.19072) | [Code](https://github.com/thuml/TimeXer) | NeurIPS 2024|
 | [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877) | [Code](https://github.com/dongbeank/CATS) | NeurIPS 2024|
@@ -183,7 +185,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/abs/2405.00946) | [Code](https://github.com/lss-1138/SparseTSF) | ICML 2024|
 | [SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting](https://icml.cc/virtual/2024/poster/33594) | None | ICML 2024|
 | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/pdf/2403.01673) | [Code](https://github.com/LJC-FVNR/CATS) | ICML 2024|
-| [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | ICML 2024|
+| [Unified Training of Universal Time Series Forecasting Transformers⭐](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | ICML 2024|
 | [Transformers with Loss Shaping Constraints for Long-Term Time Series Forecasting](https://arxiv.org/pdf/2402.09373) | None | ICML 2024|
 | [Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization](https://arxiv.org/abs//2403.14587) | [Code](https://github.com/yiruiliu110/df2m) | ICML 2024|
 | [An Analysis of Linear Time Series Forecasting Models⭐](https://arxiv.org/abs//2403.14587) | [Code](https://github.com/VEWOXIC/FITS/) | ICML 2024|
@@ -192,7 +194,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
 | [UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction](https://arxiv.org/abs/2402.11838) | [Code](https://github.com/tsinghua-fib-lab/UniST) | KDD 2024|
 | [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) | [Code](https://github.com/mims-harvard/units) | Arxiv |
-| [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf) | [Code](https://github.com/Atik-Ahamed/TimeMachine) | ECAI 2024 |
+| [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting⭐](https://arxiv.org/pdf/2403.09898.pdf) | [Code](https://github.com/Atik-Ahamed/TimeMachine) | ECAI 2024 |
 | [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) | [Code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | Arxiv |
 | [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [Code](https://github.com/AI4CTS/E2Usd)| WWW 2024 |
 | [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW 2024 |
@@ -242,7 +244,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [KAN‑AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks](https://arxiv.org/abs/2411.00278) | [Code](https://github.com/CSTCloudOps/KAN-AD) | ICML 2025 |
+| [KAN‑AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks⭐](https://arxiv.org/abs/2411.00278) | [Code](https://github.com/CSTCloudOps/KAN-AD) | ICML 2025 |
 | [When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](https://arxiv.org/abs/2505.06492) | [Code](https://github.com/KU-VGI/AP)  | ICML 2025 |
 | [ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection](https://arxiv.org/abs/2509.24414) | [Code](https://github.com/jk-sounds/ScatterAD) | NeurIPS 2025 |
 | [NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines](https://www.arxiv.org/abs/2505.06333) | [Code](https://github.com/ChathurangiShyalika/NSF-MAP) | IJCAI 2025 |
@@ -275,7 +277,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Exploring Representations and Interventions in Time Series Foundation Models](https://arxiv.org/abs/2409.12915) | [Code](https://github.com/moment-timeseries-foundation-model/representations-in-tsfms) | ICML 2025 |
-| [Sundial: A Family of Highly Capable Time Series Foundation Models](https://arxiv.org/abs/2502.00816) | [Code](https://github.com/thuml/Sundial) | ICML 2025 | 
+| [Sundial: A Family of Highly Capable Time Series Foundation Models⭐](https://arxiv.org/abs/2502.00816) | [Code](https://github.com/thuml/Sundial) | ICML 2025 | 
 | [AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.10235) | [Code](https://github.com/abenechehab/AdaPTS) | ICML 2025 |
 | [Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts](https://arxiv.org/pdf/2410.10469) | None | ICML 2025 |
 | [Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization](https://arxiv.org/abs/2412.05244) | None | ICML 2025 |
@@ -283,7 +285,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195) | [Code](https://github.com/SJTU-DMTai/Prune-then-Finetune) |  NeurIPS 2025 |
 | [Synthetic Series-Symbol Data Generation for Time Series Foundation Models](https://arxiv.org/abs/2510.08445) | [Code](https://github.com/wwhenxuan/SymTime) | NeurIPS 2025 |
 | [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087) | [Code](https://github.com/zqiao11/MSFT) | NeurIPS 2025 |
-| [This Time is Different: An Observability Perspective on Time Series Foundation Models](https://arxiv.org/abs/2505.14766) | [Code](https://github.com/DataDog/toto) | NeurIPS 2025 |
+| [This Time is Different: An Observability Perspective on Time Series Foundation Models⭐](https://arxiv.org/abs/2505.14766) | [Code](https://github.com/DataDog/toto) | NeurIPS 2025 |
 | [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) | None | NeurIPS 2025 |
 | [Investigating Hallucinations in Time Series Foundation Models through Signal Subspace Analysis](https://dynresmanagement.com/uploads/3/5/2/7/35274584/tsfm.pdf) | None | NeurIPS 2025 |
 | [MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584) | None | NeurIPS 2025 | 
@@ -333,7 +335,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/abs/2509.25278) | [Code](https://github.com/payalmohapatra/MAESTRO) | NeurIPS 2025 |
 |[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114) | None | NeurIPS 2025 | 
 | [Comprehensive Review of Neural Differential Equations for Time Series Analysis](https://arxiv.org/abs/2502.09885) | None | IJCAI 2025 |
-| [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869) | [Code](https://github.com/D2I-Group/awesome-vision-time-series) | IJCAI 2025 |
+| [Harnessing Vision Models for Time Series Analysis: A Survey⭐](https://arxiv.org/abs/2502.08869) | [Code](https://github.com/D2I-Group/awesome-vision-time-series) | IJCAI 2025 |
 | [Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation](https://dl.acm.org/doi/10.1145/3690624.3709239) | None | KDD 2025 |
 | [Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://openreview.net/forum?id=trPIg0ECvv#discussion) | None | WWW 2025 |
 | [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
