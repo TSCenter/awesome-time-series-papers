@@ -261,6 +261,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Can LLMs Understand Time Series Anomalies?⭐](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
 | [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
 | [Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection](https://openreview.net/pdf?id=eWocmTQn7H) | [Code](https://openreview.net/forum?id=eWocmTQn7H) | ICLR 2025 |
+| [Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial](https://arxiv.org/abs/2405.15273) | None | ICLR 2025 | 
 | [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://www.vldb.org/pvldb/vol17/p359-zhang.pdf) | [Code](https://github.com/17000cyh/IMDiffusion) | VLDB 2024|
 | [An Experimental Evaluation of Anomaly Detection in Time Series⭐](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
 | [AutoTSAD: Unsupervised Holistic Anomaly Detection for Time Series Data](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
