@@ -253,6 +253,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | ------- | ------ | ---------- |
 | [KAN‑AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks⭐](https://arxiv.org/abs/2411.00278) | [Code](https://github.com/CSTCloudOps/KAN-AD) | ICML 2025 |
 | [When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](https://arxiv.org/abs/2505.06492) | [Code](https://github.com/KU-VGI/AP)  | ICML 2025 |
+|[CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling.](http://arxiv.org/abs/2510.12489) | [Code](https://github.com/decisionintelligence/CrossAD) | NeurIPS 2025 | 
 | [ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection](https://arxiv.org/abs/2509.24414) | [Code](https://github.com/jk-sounds/ScatterAD) | NeurIPS 2025 |
 | [NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines](https://www.arxiv.org/abs/2505.06333) | [Code](https://github.com/ChathurangiShyalika/NSF-MAP) | IJCAI 2025 |
 | [Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels](https://dl.acm.org/doi/10.1145/3690624.3709257) | None | KDD 2025 |
