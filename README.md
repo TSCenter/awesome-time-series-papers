@@ -312,7 +312,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](hhttps://arxiv.org/abs/2505.17431)  | [Code](https://github.com/Ladbaby/PyOmniTS)   | ICML 2025 |
+| [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.17431) | [Code](https://github.com/Ladbaby/PyOmniTS)   | ICML 2025 |
 | [IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction](https://arxiv.org/abs/2505.22815) | [Code](https://github.com/WHU-HZY/VIMTS) | ICML 2025 |
 | [LSCD: Lomb‑Scargle Conditioned Diffusion for Time Series Imputation](https://www.arxiv.org/abs/2506.17039)   | [Code](https://github.com/WenjieDu/PyGrinder) | ICML 2025 |
 | [Glocal Information Bottleneck for Time Series Imputation](https://www.arxiv.org/abs/2510.04910) | [Code](https://github.com/Muyiiiii/NeurIPS-25-Glocal-IB) | NeurIPS 2025 |
