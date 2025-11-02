@@ -11,6 +11,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/11/2: **Add Some Recommended Papers⭐**
+
 🚩 2025/10/27: **Add Some Recommended Papers⭐**
 
 🚩 2025/10/23: **Add ICML 2025 Papers**
@@ -314,10 +316,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | ------- | ------ | ---------- |
 | [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.17431) | [Code](https://github.com/Ladbaby/PyOmniTS)   | ICML 2025 |
 | [IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction](https://arxiv.org/abs/2505.22815) | [Code](https://github.com/WHU-HZY/VIMTS) | ICML 2025 |
-| [LSCD: Lomb‑Scargle Conditioned Diffusion for Time Series Imputation](https://www.arxiv.org/abs/2506.17039)   | [Code](https://github.com/WenjieDu/PyGrinder) | ICML 2025 |
+| [LSCD: Lomb‑Scargle Conditioned Diffusion for Time Series Imputation⭐](https://www.arxiv.org/abs/2506.17039)   | [Code](https://github.com/WenjieDu/PyGrinder) | ICML 2025 |
 | [Glocal Information Bottleneck for Time Series Imputation](https://www.arxiv.org/abs/2510.04910) | [Code](https://github.com/Muyiiiii/NeurIPS-25-Glocal-IB) | NeurIPS 2025 |
 | [A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking](https://arxiv.org/abs/2510.06699) | [Code](https://github.com/azencot-group/ImagenI2R) | NeurIPS 2025 |
-| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://arxiv.org/abs/2506.10412) | [Code](https://anonymous.4open.science/r/IMMTSF_NeurIPS2025/README.md) | NeurIPS 2025 | 
+| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series⭐](https://arxiv.org/abs/2506.10412) | [Code](https://anonymous.4open.science/r/IMMTSF_NeurIPS2025/README.md) | NeurIPS 2025 | 
 | [CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements](https://arxiv.org/pdf/2502.04592) | None | AAAI 2025 |
 | [Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](https://arxiv.org/abs/2410.05602) | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
 | [Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows](https://arxiv.org/abs/2402.06293) | [Code](github.com/yalavarthivk/ProFITi) | AAAI 2025 |
