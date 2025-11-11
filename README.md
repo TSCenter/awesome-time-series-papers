@@ -1,5 +1,5 @@
 # Awesome Time Series Papers
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/TSCenter/awesome-time-series-papers.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Forks](https://img.shields.io/github/forks/TSCenter/awesome-time-series-papers.svg?style=social&label=Fork&maxAge=2592000
 ) ![Stars](https://img.shields.io/github/stars/TSCenter/awesome-time-series-papers) 
 
