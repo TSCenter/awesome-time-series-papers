@@ -10,6 +10,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/11/12: **Add ACL 2025 Papers**
+
 🚩 2025/11/2: **Add Some Recommended Papers⭐**
 
 🚩 2025/10/27: **Add Some Recommended Papers⭐**
@@ -94,6 +96,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
 | [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
 | [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
@@ -286,6 +289,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Foundation Model
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
+| [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://arxiv.org/pdf/2503.01875) | [Code](https://huggingface.co/Time-MQA) | ACL 2025 |
 | [Exploring Representations and Interventions in Time Series Foundation Models](https://arxiv.org/abs/2409.12915) | [Code](https://github.com/moment-timeseries-foundation-model/representations-in-tsfms) | ICML 2025 |
 | [Sundial: A Family of Highly Capable Time Series Foundation Models⭐](https://arxiv.org/abs/2502.00816) | [Code](https://github.com/thuml/Sundial) | ICML 2025 | 
 | [AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.10235) | [Code](https://github.com/abenechehab/AdaPTS) | ICML 2025 |
@@ -365,6 +370,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CrisisTS: Coupling Social Media Textual Data and Meteorological Time Series for Urgency Classification](https://aclanthology.org/2025.acl-long.783.pdf) | None | ACL 2025 | 
 | [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
 | [Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](https://arxiv.org/abs/2503.20264) | [Code](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | PAKDD 2025 |
 | [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://openreview.net/pdf?id=SbEFbBhNRd) | None | WWW 2025 |
