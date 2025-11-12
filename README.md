@@ -310,6 +310,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Early Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [EarlyMix: Hierarchical Mixing for Early Time Series Classification💛](https://www.computer.org/csdl/proceedings-article/icme/2025/11209452/2beCG8sJoEo) | [Code](https://github.com/TSCenter/EarlyMix) | ICME 2025 | 
 | [Second-order Confidence Network for Early Classification of Time Series💛](https://dl.acm.org/doi/10.1145/3631531) | None | TIST 2023 |
 | [CALIMERA: : A new early time series classification method](https://dl.acm.org/doi/10.1016/j.ipm.2023.103465) | [Code](https://github.com/JakubBilski/CALIMERA) | IPM 2023 |
 | [TEASER: Early and Accurate Time Series Classification💛](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
