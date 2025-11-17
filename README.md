@@ -98,6 +98,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
 | [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
 | [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
