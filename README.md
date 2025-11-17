@@ -1,7 +1,7 @@
 # Awesome Time Series Papers
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
-![Forks](https://img.shields.io/github/forks/TSCenter/awesome-time-series-papers.svg?style=social&label=Fork&maxAge=2592000
-) ![Stars](https://img.shields.io/github/stars/TSCenter/awesome-time-series-papers.svg?style=social&label=Star&maxAge=2592000) 
+![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork&maxAge=2592000
+) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star&maxAge=2592000) 
 
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including time series forecasting, time series anomaly detection, time series early classification, irregular time series learning, time series representation learning, and more. **Feel free to suggest notable works in the issues or submit a pull request!**
@@ -9,6 +9,8 @@ This repository is a comprehensive collection of recent research papers and reso
 **Star us on GitHub if you find this project helpful.⭐⭐⭐**
 
 ## Some Additional Information
+
+🚩 2025/11/12: **Add MM 2025 Papers**
 
 🚩 2025/11/12: **Add ACL 2025 Papers**
 
@@ -371,6 +373,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](https://arxiv.org/abs/2507.04600) | [Code](https://github.com/ZhipengLiu75/DisMS-TS) | MM 2025 |
 | [CrisisTS: Coupling Social Media Textual Data and Meteorological Time Series for Urgency Classification](https://aclanthology.org/2025.acl-long.783.pdf) | None | ACL 2025 | 
 | [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
 | [Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](https://arxiv.org/abs/2503.20264) | [Code](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | PAKDD 2025 |
