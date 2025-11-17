@@ -294,8 +294,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245) | None | MM 2025 |
-| [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://arxiv.org/pdf/2503.01875) | [Code](https://huggingface.co/Time-MQA) | ACL 2025 |
+| [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
 | [Exploring Representations and Interventions in Time Series Foundation Models](https://arxiv.org/abs/2409.12915) | [Code](https://github.com/moment-timeseries-foundation-model/representations-in-tsfms) | ICML 2025 |
 | [Sundial: A Family of Highly Capable Time Series Foundation Models⭐](https://arxiv.org/abs/2502.00816) | [Code](https://github.com/thuml/Sundial) | ICML 2025 | 
 | [AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.10235) | [Code](https://github.com/abenechehab/AdaPTS) | ICML 2025 |
