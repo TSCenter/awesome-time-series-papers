@@ -257,6 +257,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Unsupervised Dual-Domain Memory Model for Time Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3746027.3754892) | None | MM 2025 |
 | [KAN‑AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks⭐](https://arxiv.org/abs/2411.00278) | [Code](https://github.com/CSTCloudOps/KAN-AD) | ICML 2025 |
 | [When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](https://arxiv.org/abs/2505.06492) | [Code](https://github.com/KU-VGI/AP)  | ICML 2025 |
 |[CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling.](http://arxiv.org/abs/2510.12489) | [Code](https://github.com/decisionintelligence/CrossAD) | NeurIPS 2025 | 
@@ -291,6 +292,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Foundation Model
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245) | None | MM 2025 |
 | [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://arxiv.org/pdf/2503.01875) | [Code](https://huggingface.co/Time-MQA) | ACL 2025 |
 | [Exploring Representations and Interventions in Time Series Foundation Models](https://arxiv.org/abs/2409.12915) | [Code](https://github.com/moment-timeseries-foundation-model/representations-in-tsfms) | ICML 2025 |
