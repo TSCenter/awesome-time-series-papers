@@ -10,7 +10,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-🚩 2025/11/12: **Add MM 2025 Papers**
+🚩 2025/11/17: **Add MM 2025 Papers**
 
 🚩 2025/11/12: **Add ACL 2025 Papers**
 
