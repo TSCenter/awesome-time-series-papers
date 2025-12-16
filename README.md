@@ -10,6 +10,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/12/17: **Add AAAI 2026 Papers**
+
 🚩 2025/11/17: **Add MM 2025 Papers**
 
 🚩 2025/11/12: **Add ACL 2025 Papers**
@@ -98,6 +100,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
+| [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 | [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
 | [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
 | [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
@@ -258,6 +262,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://arxiv.org/abs/2506.06836) | [Code](https://github.com/ZLHe0/VLM4TS) | AAAI 2026 |
+| [A Theoretical Analysis of Detecting Large Model-Generated Time Series](https://arxiv.org/abs/2511.07104) | None | AAAI 2026 |
+| [Finding Time Series Anomalies using Granular-ball Vector Data Description](https://www.arxiv.org/abs/2511.12147) | None | AAAI 2026 |
 | [Unsupervised Dual-Domain Memory Model for Time Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3746027.3754892) | None | MM 2025 |
 | [KAN‑AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks⭐](https://arxiv.org/abs/2411.00278) | [Code](https://github.com/CSTCloudOps/KAN-AD) | ICML 2025 |
 | [When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](https://arxiv.org/abs/2505.06492) | [Code](https://github.com/KU-VGI/AP)  | ICML 2025 |
@@ -324,6 +331,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification](https://www.arxiv.org/abs/2511.10841) | [Code](https://github.com/yongkyung-oh/FlowPath) | AAAI 2026 |
+| [Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854) | None | AAAI 2026 |
 | [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.17431) | [Code](https://github.com/Ladbaby/PyOmniTS)   | ICML 2025 |
 | [IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction](https://arxiv.org/abs/2505.22815) | [Code](https://github.com/WHU-HZY/VIMTS) | ICML 2025 |
 | [LSCD: Lomb‑Scargle Conditioned Diffusion for Time Series Imputation⭐](https://www.arxiv.org/abs/2506.17039)   | [Code](https://github.com/WenjieDu/PyGrinder) | ICML 2025 |
@@ -352,6 +361,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/pdf/2511.17008) | [Code](https://github.com/yueliangy/EMTC) | AAAI 2026 |
+| [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783) | None | AAAI 2026 |
 | [TRACE: Contrastive learning for multi-trial time series data in neuroscience](https://arxiv.org/pdf/2506.04906) | [Code](https://osf.io/x7qsm/?view_only=e5fd82164c8a4a30807cdba400d80c28) | NeurIPS 2025 |
 | [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/abs/2509.25278) | [Code](https://github.com/payalmohapatra/MAESTRO) | NeurIPS 2025 |
 |[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114) | None | NeurIPS 2025 | 
@@ -376,6 +387,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Counterfactual eXplainable AI (XAI) Method for Deep Learning-Based Multivariate Time Series Classification](https://arxiv.org/abs/2511.13237) | [Code](https://github.com/serval-uni-lu/confetti) | AAAI 2026 |
+| [MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification](https://arxiv.org/abs/2503.15578) | None | AAAI 2026 |
 | [DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](https://arxiv.org/abs/2507.04600) | [Code](https://github.com/ZhipengLiu75/DisMS-TS) | MM 2025 |
 | [CrisisTS: Coupling Social Media Textual Data and Meteorological Time Series for Urgency Classification](https://aclanthology.org/2025.acl-long.783.pdf) | None | ACL 2025 | 
 | [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
