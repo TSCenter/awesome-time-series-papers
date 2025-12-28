@@ -10,6 +10,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/12/28: **Add ICDE 2026 Papers (Round 1)**
+
 🚩 2025/12/17: **Add AAAI 2026 Papers**
 
 🚩 2025/11/17: **Add MM 2025 Papers**
@@ -262,6 +264,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data](https://arxiv.org/abs/2510.18998) | None | ICDE 2026 |
 | [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://arxiv.org/abs/2506.06836) | [Code](https://github.com/ZLHe0/VLM4TS) | AAAI 2026 |
 | [A Theoretical Analysis of Detecting Large Model-Generated Time Series](https://arxiv.org/abs/2511.07104) | None | AAAI 2026 |
 | [Finding Time Series Anomalies using Granular-ball Vector Data Description](https://www.arxiv.org/abs/2511.12147) | None | AAAI 2026 |
@@ -361,6 +364,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078) | [Code](https://github.com/zhangda1018/FusAD) | ICDE 2026 |
 | [Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/pdf/2511.17008) | [Code](https://github.com/yueliangy/EMTC) | AAAI 2026 |
 | [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783) | None | AAAI 2026 |
 | [TRACE: Contrastive learning for multi-trial time series data in neuroscience](https://arxiv.org/pdf/2506.04906) | [Code](https://osf.io/x7qsm/?view_only=e5fd82164c8a4a30807cdba400d80c28) | NeurIPS 2025 |
