@@ -1,7 +1,7 @@
 # Awesome Time Series Papers
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
-![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork&maxAge=2592000
-) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star&maxAge=2592000) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork)
+![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star)
 
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including time series forecasting, time series anomaly detection, time series early classification, irregular time series learning, time series representation learning, and more. **Feel free to suggest notable works in the issues or submit a pull request!**
