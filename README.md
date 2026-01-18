@@ -10,11 +10,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2026/1/19: **Add MM 2025 Papers**
+
 🚩 2025/12/28: **Add ICDE 2026 Papers (Round 1)**
 
 🚩 2025/12/17: **Add AAAI 2026 Papers**
-
-🚩 2025/11/17: **Add MM 2025 Papers**
 
 🚩 2025/11/12: **Add ACL 2025 Papers**
 
@@ -105,6 +105,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 | [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
+| [Towards Measuring and Modeling Geometric Structures in Time Series Forecasting via Image Modality](https://dl.acm.org/doi/10.1145/3746027.3754794) | None | MM 2025 |
 | [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
 | [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
@@ -394,6 +395,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Counterfactual eXplainable AI (XAI) Method for Deep Learning-Based Multivariate Time Series Classification](https://arxiv.org/abs/2511.13237) | [Code](https://github.com/serval-uni-lu/confetti) | AAAI 2026 |
 | [MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification](https://arxiv.org/abs/2503.15578) | None | AAAI 2026 |
 | [DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](https://arxiv.org/abs/2507.04600) | [Code](https://github.com/ZhipengLiu75/DisMS-TS) | MM 2025 |
+| [Foresail: LLM Sensor Knowledge Empowered Status-guided Network for Multivariate Time-series Classification](https://dl.acm.org/doi/10.1145/3746027.3755806) | [Code](https://github.com/weatherjyh/Foresail) | MM 2025 |
+| [Reading Between the Channels: Knowledge-Augmented Medical Time Series Classification](https://dl.acm.org/doi/epdf/10.1145/3746027.3755824) | None | MM 2025 |
 | [CrisisTS: Coupling Social Media Textual Data and Meteorological Time Series for Urgency Classification](https://aclanthology.org/2025.acl-long.783.pdf) | None | ACL 2025 | 
 | [A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge](https://arxiv.org/abs/2505.05106) | [Code](https://github.com/continual-nesy/LTLZinc) | IJCAI 2025 |
 | [Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](https://arxiv.org/abs/2503.20264) | [Code](https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark) | PAKDD 2025 |
