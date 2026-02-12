@@ -186,6 +186,12 @@ This repository is a comprehensive collection of recent research papers and reso
 | [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)  | None  | AAAI 2025 |
 | [VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183) | None | AAAI 2025 |
 | [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216) | None | AAAI 2025 |
+
+
+### 2024
+
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
 | [Multiple Time Series Forecasting with Dynamic Graph Modeling](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [Code](https://github.com/zhkai/MTSF-DG) | VLDB 2024|
 | [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods⭐](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
 | [Weakly Guided Adaptation for Robust Time Series Forecasting](https://www.vldb.org/pvldb/vol17/p766-cheng.pdf) | [Code](https://github.com/YunyaoCheng/DARF) | VLDB 2024|
@@ -232,7 +238,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
 | [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
 
-### 2023
+### 2023 and Before
 
 | Method Name | Code | Source |
 | ------- | ------ | -------- |
@@ -242,22 +248,12 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/pdf?id=sCrnllCtjoE) | [Code](https://github.com/BorealisAI/scaleformer) | ICLR 2023 |
 | [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) | [Code](https://github.com/WenjieDu/SAITS/) | Expert Systems with Applications |
 | [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers💛](http://arxiv.org/abs/2211.14730) | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
-
-### 2022
-
-| Method Name | Code | Source |
-| ------- | ------ | ------ |
 | [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
 | [Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
 | [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
 | [Learning Latent Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
 | [GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
 | [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/user/repo) | NeurIPS 2022 |
-
-### 2021
-
-| Method Name | Code | Source |
-| ------- | ------ | ------ |
 | [Probabilistic Transformer For Time Series Analysis](https://openreview.net/forum?id=HfpNVDg3ExA) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
 | [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting💛](https://papers.nips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
 | [Whittle Networks: A Deep Likelihood Model for Time Series](https://www.ml.informatik.tu-darmstadt.de/papers/yu2021icml_wspn.pdf) | [Code](https://github.com/ml-research/WhittleNetworks) | ICML 2021 |
