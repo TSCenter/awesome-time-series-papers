@@ -13,6 +13,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2026/2/13: **Add Some Recommended Papers⭐**
+
 🚩 2026/1/19: **Add MM 2025 Papers**
 
 🚩 2025/12/28: **Add ICDE 2026 Papers (Round 1)**
@@ -109,25 +111,25 @@ This repository is a comprehensive collection of recent research papers and reso
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 | [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
 | [Towards Measuring and Modeling Geometric Structures in Time Series Forecasting via Image Modality](https://dl.acm.org/doi/10.1145/3746027.3754794) | None | MM 2025 |
-| [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
+| [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting⭐](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
 | [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
 | [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
-| [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
+| [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting⭐](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
 | [CMoS: Rethinking Time Series Prediction Through the Lens of Chunk‑wise Spatial Correlations](https://arxiv.org/abs/2505.19090) | [Code](https://github.com/CSTCloudOps/CMoS) | ICML 2025 |
 | [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)   | [Code](https://github.com/decisionintelligence/LightGTS) | ICML 2025 |
 | [Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting](https://openreview.net/pdf?id=kcUNMKqrCg) | [Code](https://github.com/quest-lab-iisc/CNDiff)  | ICML 2025 |
 | [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249)  | [Code](https://github.com/kutaytire/Retrieval-Augmented-Time-Series-Forecasting) | ICML 2025 |
 | [Non‑stationary Diffusion for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278)  | [Code](https://github.com/wwy155/NsDiff)  | ICML 2025 |
 | [WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting](https://arxiv.org/abs/2410.03159) | [Code](https://anonymous.4open.science/r/ARMA-attention-3437)  | ICML 2025 |
-| [Patch‑wise Structural Loss for Time Series Forecasting](https://arxiv.org/abs/2503.00877) | [Code](https://github.com/Dilfiraa/PS_Loss)  | ICML 2025 |
-| [TimeBridge: Non‑Stationarity Matters for Long‑term Time Series Forecasting](https://arxiv.org/abs/2410.04442)  | [Code](https://github.com/Hank0626/TimeBridge) | ICML 2025 |
+| [Patch‑wise Structural Loss for Time Series Forecasting⭐](https://arxiv.org/abs/2503.00877) | [Code](https://github.com/Dilfiraa/PS_Loss)  | ICML 2025 |
+| [TimeBridge: Non‑Stationarity Matters for Long‑term Time Series Forecasting⭐](https://arxiv.org/abs/2410.04442)  | [Code](https://github.com/Hank0626/TimeBridge) | ICML 2025 |
 | [TimePro: Efficient Multivariate Long‑term Time Series Forecasting with Variable‑ and Time‑Aware Hyper‑state](https://arxiv.org/abs/2505.20774)  | [Code](https://arxiv.org/pdf/2505.20774) | ICML 2025 |
 | [Winner‑takes‑all for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2506.05515) | [Code](https://github.com/Victorletzelter/timeMCL) | ICML 2025 |
 | [TimeStacker: A Novel Framework with Multilevel Observation for Capturing Non‑stationary Patterns in Time Series Forecasting](https://openreview.net/pdf?id=5RYSqSKz9b) | None | ICML 2025 |
 | [How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning](https://www.arxiv.org/abs/2510.04908) | [Code](https://github.com/Jimmy-7664/ST-SSDL) | NeurIPS 2025 |
 | [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928) | [Code](https://github.com/mauricekraus/xLSTM-Mixer) | NeurIPS 2025 |
 | [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://arxiv.org/abs/2410.09836) | [Code](https://github.com/syrGitHub/TFPS) | NeurIPS 2025 |
-| [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](https://arxiv.org/abs/2505.23719) | [Code](https://github.com/NX-AI/tirex) | NeurIPS 2025 |
+| [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning⭐](https://arxiv.org/abs/2505.23719) | [Code](https://github.com/NX-AI/tirex) | NeurIPS 2025 |
 | [TransDF: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/abs/2505.17847) | [Code](https://anonymous.4open.science/r/TransDF-88CF) | NeurIPS 2025 |
 | [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550) | [Code](https://anonymous.4open.science/r/OLinear) | NeurIPS 2025 |
 | [Neural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction](https://arxiv.org/abs/2506.04542) | [Code](https://github.com/YuanpeiG/neural-MJD) | NeurIPS 2025 |
@@ -137,7 +139,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](https://neurips.cc/virtual/2025/poster/115701) | None | NeurIPS 2025 |
 | [Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2505.24003) | None | NeurIPS 2025 |
 | [Conformal Prediction for Time-series Forecasting with Change Points](https://www.arxiv.org/abs/2509.02844) | None | NeurIPS 2025 |
-| [FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2501.13989) | [Code](https://anonymous.4open.science/r/FreEformer) | IJCAI 2025 |
+| [FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting⭐](https://arxiv.org/abs/2501.13989) | [Code](https://anonymous.4open.science/r/FreEformer) | IJCAI 2025 |
 | [Conditional Information Bottleneck-Based Multivariate Time Series Forecasting](https://openreview.net/forum?id=K1mcPiDdOJ) | [Code](https://github.com/Xinhui-Lee/CIB-MTSF) | IJCAI 2025 |
 | [A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting](https://arxiv.org/abs/2506.00798) | [Code](https://github.com/komorebi424/DST-SGNN) | IJCAI 2025 |
 | [Non-collective Calibrating Strategy for Time Series Forecasting](https://www.arxiv.org/abs/2506.03176) | [Code](https://github.com/hanyuki23/SoP) | IJCAI 2025 |
@@ -149,9 +151,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates](https://arxiv.org/abs/2506.12459) | [Code](https://github.com/ChengqingYu/Merlin) | KDD 2025 |
 | [TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations](https://arxiv.org/pdf/2504.12721) | [Code](https://github.com/Luoauoa/TimeCapsule) | KDD 2025 |
 | [Multi-period Learning for Financial Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709422) | None | KDD 2025 |
-| [Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709210) | None | KDD 2025 |
+| [Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting⭐](https://dl.acm.org/doi/10.1145/3690624.3709210) | None | KDD 2025 |
 | [ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709254) | None | KDD 2025 |
-| [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709325) | None | KDD 2025 |
+| [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting⭐](https://dl.acm.org/doi/10.1145/3690624.3709325) | None | KDD 2025 |
 | [Quantum Time-index Models with Reservoir for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709228) | None | KDD 2025 |
 | [IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709260) | None | KDD 2025 |
 | [Exploiting Language Power for Time Series Forecasting with Exogenous Variables](https://openreview.net/pdf?id=dFapOK8Rhb) | None | WWW 2025 |
@@ -195,7 +197,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Multiple Time Series Forecasting with Dynamic Graph Modeling](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [Code](https://github.com/zhkai/MTSF-DG) | VLDB 2024|
 | [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods⭐](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
 | [Weakly Guided Adaptation for Robust Time Series Forecasting](https://www.vldb.org/pvldb/vol17/p766-cheng.pdf) | [Code](https://github.com/YunyaoCheng/DARF) | VLDB 2024|
-| [Retrieval-Augmented Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2410.18712) | [Code](https://github.com/AdityaLab/FOIL) | NeurIPS 2024|
+| [Retrieval-Augmented Diffusion Models for Time Series Forecasting⭐](https://arxiv.org/abs/2410.18712) | [Code](https://github.com/AdityaLab/FOIL) | NeurIPS 2024|
 | [Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective](https://arxiv.org/abs/2402.11463) | None | NeurIPS 2024|
 | [Frequency Adaptive Normalization For Non-stationary Time Series Forecasting](https://arxiv.org/abs/2409.20371) | [Code](https://github.com/wayne155/FAN) | NeurIPS 2024|
 | [Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](https://arxiv.org/pdf/2409.18696) | [Code](https://github.com/ForestsKing/GLAFF) | NeurIPS 2024|
