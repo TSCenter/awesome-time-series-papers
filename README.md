@@ -11,7 +11,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 **Star us on GitHub if you find this project helpful.⭐⭐⭐**
 
-## Some Additional Information
+## Recent Updates	
 
 🚩 2026/2/21: **Add ICLR 2026 Papers**
 
