@@ -110,12 +110,17 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Time Series Forecasting
 
-### 2025
+### 2026
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
+
+### 2025
+
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
 | [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
 | [Towards Measuring and Modeling Geometric Structures in Time Series Forecasting via Image Modality](https://dl.acm.org/doi/10.1145/3746027.3754794) | None | MM 2025 |
 | [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting⭐](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
