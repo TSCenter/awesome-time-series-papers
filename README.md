@@ -207,7 +207,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216) | None | AAAI 2025 |
 
 
-### 2024
+<details>
+<summary><b> 💫View 2024 Papers</b></summary>
+<hr>
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
@@ -257,7 +259,12 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
 | [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
 
-### 2023 and Before
+</details>
+
+
+<details>
+<summary><b> 💫View 2023 and Before Papers</b></summary>
+<hr>
 
 | Method Name | Code | Source |
 | ------- | ------ | -------- |
@@ -279,6 +286,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) | [Code](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021 |
 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 |
 
+</details>
 
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
