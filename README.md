@@ -13,7 +13,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-🚩 2026/2/13: **Add ICLR 2026**
+🚩 2026/2/13: **Add ICLR 2026 Papers**
 
 🚩 2026/2/13: **Add Some Recommended Papers⭐**
 
