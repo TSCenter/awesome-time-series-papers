@@ -17,6 +17,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 🚩 2026/1/19: **Add MM 2025 Papers**
 
+<details>
+<summary><b>🗂️ View 2025 Update History</b></summary>
+
 🚩 2025/12/28: **Add ICDE 2026 Papers (Round 1)**
 
 🚩 2025/12/17: **Add AAAI 2026 Papers**
@@ -54,6 +57,8 @@ This repository is a comprehensive collection of recent research papers and reso
 🚩 2025/2/12: **Add ICLR 2025 Papers**
 
 🚩 2025/1/23: **Add AAAI 2025 Papers**
+
+</details>
 
 <details>
 <summary><b>🗂️ View 2024 Update History</b></summary>
