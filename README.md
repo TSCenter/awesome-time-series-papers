@@ -13,6 +13,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2026/2/13: **Add ICLR 2026**
+
 🚩 2026/2/13: **Add Some Recommended Papers⭐**
 
 🚩 2026/1/19: **Add MM 2025 Papers**
@@ -310,6 +312,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Foundation Model
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CauKer: classification time series foundation models can be pretrained on synthetic data only](https://arxiv.org/abs/2508.02879) | [Code](https://openreview.net/forum?id=xBW2FIfswU) | ICLR 2026 Oral |
 | [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245) | None | MM 2025 |
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://arxiv.org/pdf/2503.01875) | [Code](https://huggingface.co/Time-MQA) | ACL 2025 |
 | [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
@@ -371,6 +374,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://openreview.net/forum?id=oZJFY2BQt2) | [Code](https://openreview.net/forum?id=oZJFY2BQt2) | ICLR 2026 Oral |
 | [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078) | [Code](https://github.com/zhangda1018/FusAD) | ICDE 2026 |
 | [Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/pdf/2511.17008) | [Code](https://github.com/yueliangy/EMTC) | AAAI 2026 |
 | [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783) | None | AAAI 2026 |
