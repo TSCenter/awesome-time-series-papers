@@ -114,6 +114,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://openreview.net/forum?id=4IPIhOgVqz) | [Code](https://openreview.net/forum?id=4IPIhOgVqz) | ICLR 2026 |
+| [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://openreview.net/forum?id=emkvZ7NanK) | [Code](https://openreview.net/forum?id=emkvZ7NanK) | ICLR 2026 |
+| [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://openreview.net/forum?id=WGqibe5H3W) | [Code](https://openreview.net/forum?id=WGqibe5H3W) | ICLR 2026 |
+| [Go to ICLR 2026 Conference homepage Numerion: A Multi-Hypercomplex Model for Time Series Forecasting](https://openreview.net/forum?id=2hCwLqx5gm) | None | ICLR 2026 |
+| [Online time series prediction using feature adjustment](https://openreview.net/forum?id=s4U2FWEMTU) | None | ICLR 2026 |
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 
@@ -278,6 +283,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [When Foundation Models are One-Liners: Limitations and Future Directions for Time Series Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) | [Code](https://openreview.net/forum?id=H27kvyG4qf) | ICLR 2026 |
+| [ICDiffAD: Implicit Conditioning Diffusion Model for Time Series Anomaly Detection](https://openreview.net/forum?id=HIkuWAikXC) | None | ICLR 2026 |
 | [An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data](https://arxiv.org/abs/2510.18998) | None | ICDE 2026 |
 | [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://arxiv.org/abs/2506.06836) | [Code](https://github.com/ZLHe0/VLM4TS) | AAAI 2026 |
 | [A Theoretical Analysis of Detecting Large Model-Generated Time Series](https://arxiv.org/abs/2511.07104) | None | AAAI 2026 |
@@ -318,6 +325,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [CauKer: classification time series foundation models can be pretrained on synthetic data only](https://arxiv.org/abs/2508.02879) | [Code](https://openreview.net/forum?id=xBW2FIfswU) | ICLR 2026 Oral |
+| [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://openreview.net/forum?id=kOIclg7muL) | None | ICLR 2026 |
+| [Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy) | None | ICLR 2026 |
+| [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://openreview.net/forum?id=5YXccEP6uc) | None | ICLR 2026 |
 | [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245) | None | MM 2025 |
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://arxiv.org/pdf/2503.01875) | [Code](https://huggingface.co/Time-MQA) | ACL 2025 |
 | [Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation](https://aclanthology.org/2025.acl-srw.90.pdf) | None | ACL 2025 |
@@ -380,6 +390,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://openreview.net/forum?id=oZJFY2BQt2) | [Code](https://openreview.net/forum?id=oZJFY2BQt2) | ICLR 2026 Oral |
+| [GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series data](https://openreview.net/forum?id=PWM6FERWz9) | None | ICLR 2026 |
 | [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078) | [Code](https://github.com/zhangda1018/FusAD) | ICDE 2026 |
 | [Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/pdf/2511.17008) | [Code](https://github.com/yueliangy/EMTC) | AAAI 2026 |
 | [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783) | None | AAAI 2026 |
