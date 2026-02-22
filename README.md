@@ -3,12 +3,12 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork)
 ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star)
 
-**This is An Awesome List of the latest time series papers and code from top AI venues.❕❕❕**
+**This is An Awesome List of the latest time series papers and code from top AI venues！！！**
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including time series forecasting, time series anomaly detection, time series early classification, irregular time series learning, time series representation learning, and more. 
 
 <div align="center">
-  <img src="figures/banner.png" alt="Awesome Time Series Papers" width="50%">
+  <img src="figures/banner.png" alt="Awesome Time Series Papers" width="60%">
 </div>
 
 **Feel free to suggest notable works in the issues or submit a pull request!**
