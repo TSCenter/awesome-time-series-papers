@@ -85,14 +85,14 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Cateloge
 <div align="center">
 
-  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#time-series-forecasting))
+  [Time Series Forecasting](#time-series-forecasting) 
   
-  [Time Series Anomaly Detection](#time-series-anomaly-detection)([Some Significant Papers](#time-series-anomaly-detection))
+  [Time Series Anomaly Detection](#time-series-anomaly-detection)
 
   [Time Series Foundation Model](#time-series-foundation-model)
 
-  [Time Series Early Classification](#time-series-early-classification) ([Some Significant Papers](#time-series-early-classification))
-
+  [Time Series Early Classification](#time-series-early-classification)
+  
   [Irregular Time Series Learning](#irregular-time-series-learning)
 
   [Time Series Representation Learning](#time-series-representation-learning)
