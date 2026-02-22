@@ -13,7 +13,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 **Feel free to suggest notable works in the issues or submit a pull request!**
 
-**Star us on GitHub if you find this project helpful.⭐⭐⭐**
+**Star us on GitHub if you find this project helpful.👍👍👍**
 
 ## Recent Updates	
 
