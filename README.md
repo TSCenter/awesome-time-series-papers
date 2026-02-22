@@ -124,7 +124,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://openreview.net/forum?id=4IPIhOgVqz) | [Code](https://openreview.net/forum?id=4IPIhOgVqz) | ICLR 2026 |
 | [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://openreview.net/forum?id=emkvZ7NanK) | [Code](https://openreview.net/forum?id=emkvZ7NanK) | ICLR 2026 |
 | [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://openreview.net/forum?id=WGqibe5H3W) | [Code](https://openreview.net/forum?id=WGqibe5H3W) | ICLR 2026 |
+| [Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://openreview.net/forum?id=GZ9uSxY3Yn) | [Code](https://openreview.net/forum?id=GZ9uSxY3Yn) | ICLR 2026 |
 | [Go to ICLR 2026 Conference homepage Numerion: A Multi-Hypercomplex Model for Time Series Forecasting](https://openreview.net/forum?id=2hCwLqx5gm) | None | ICLR 2026 |
+| [Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring](https://openreview.net/forum?id=ZHW5pp5nE5) | None | ICLR 2026 |
+| [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://openreview.net/forum?id=Uv3efQiPBZ) | None | ICLR 2026 |
 | [Online time series prediction using feature adjustment](https://openreview.net/forum?id=s4U2FWEMTU) | None | ICLR 2026 |
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
@@ -298,6 +301,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://openreview.net/forum?id=NXThkM7Iym) | [Code](https://openreview.net/forum?id=NXThkM7Iym) | ICLR 2026 |
 | [When Foundation Models are One-Liners: Limitations and Future Directions for Time Series Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) | [Code](https://openreview.net/forum?id=H27kvyG4qf) | ICLR 2026 |
 | [ICDiffAD: Implicit Conditioning Diffusion Model for Time Series Anomaly Detection](https://openreview.net/forum?id=HIkuWAikXC) | None | ICLR 2026 |
 | [An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data](https://arxiv.org/abs/2510.18998) | None | ICDE 2026 |
@@ -374,6 +378,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://openreview.net/forum?id=IAnIlFsPEW) | [Code](https://openreview.net/forum?id=IAnIlFsPEW) | ICLR 2026 |
 | [FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification](https://www.arxiv.org/abs/2511.10841) | [Code](https://github.com/yongkyung-oh/FlowPath) | AAAI 2026 |
 | [Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854) | None | AAAI 2026 |
 | [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.17431) | [Code](https://github.com/Ladbaby/PyOmniTS)   | ICML 2025 |
@@ -433,6 +438,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TIMESLIVER : SYMBOLIC-LINEAR DECOMPOSITION FOR EXPLAINABLE TIME SERIES CLASSIFICATION](https://openreview.net/forum?id=MDRp9XhGtS) | [Code](https://openreview.net/forum?id=MDRp9XhGtS) | ICLR 2026 |
 | [Counterfactual eXplainable AI (XAI) Method for Deep Learning-Based Multivariate Time Series Classification](https://arxiv.org/abs/2511.13237) | [Code](https://github.com/serval-uni-lu/confetti) | AAAI 2026 |
 | [MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification](https://arxiv.org/abs/2503.15578) | None | AAAI 2026 |
 | [DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](https://arxiv.org/abs/2507.04600) | [Code](https://github.com/ZhipengLiu75/DisMS-TS) | MM 2025 |
