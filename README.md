@@ -17,7 +17,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/2/22: **Add WWW 2026 Papers**
+🚩 2026/3/4: **Add WWW 2026 Papers**
 
 🚩 2026/2/22: **Add ICLR 2026 Papers**
 
