@@ -123,6 +123,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Time-TK: A Multi-Offset Temporal Interaction Framework Combining Transformer and Kolmogorov-Arnold Networks for Time Series Forecasting](https://arxiv.org/abs/2602.11190) | [Code](https://github.com/fsmss/Time-TK) | WWW 2026 |
+| [SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220) | [Code](https://github.com/Meteor-Stars/SEMixer) | WWW 2026 |
+| [Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224) | [Code](https://github.com/Meteor-Stars/APTF) | WWW 2026 |
+| [Efficient High-Dimensional Time Series Forecasting with Transformers: A Channel Reordering Perspective](https://zheng-kai.com/paper/2026_www_fang.pdf) | None | WWW 2026 |
+| [QuiZSF: A Retrieval-Augmented Framework for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2508.06915) | None | WWW 2026 |
 | [DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://openreview.net/forum?id=4IPIhOgVqz) | [Code](https://openreview.net/forum?id=4IPIhOgVqz) | ICLR 2026 |
 | [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://openreview.net/forum?id=emkvZ7NanK) | [Code](https://openreview.net/forum?id=emkvZ7NanK) | ICLR 2026 |
 | [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://openreview.net/forum?id=WGqibe5H3W) | [Code](https://openreview.net/forum?id=WGqibe5H3W) | ICLR 2026 |
@@ -303,6 +308,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) | [Code](https://github.com/mllm-ts/VisualTimeAnomaly) | WWW 2026 |
+| [ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](https://arxiv.org/abs/2510.04710) | None | WWW 2026 |
 | [PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://openreview.net/forum?id=NXThkM7Iym) | [Code](https://openreview.net/forum?id=NXThkM7Iym) | ICLR 2026 |
 | [When Foundation Models are One-Liners: Limitations and Future Directions for Time Series Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) | [Code](https://openreview.net/forum?id=H27kvyG4qf) | ICLR 2026 |
 | [ICDiffAD: Implicit Conditioning Diffusion Model for Time Series Anomaly Detection](https://openreview.net/forum?id=HIkuWAikXC) | None | ICLR 2026 |
@@ -401,6 +408,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Data Processing
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Predictability-Aware Compression and Decompression Framework for Multichannel Time Series Data with Latent Seasonality](https://arxiv.org/abs/2506.00614) | None | WWW 2026 |
+| [TimeMar: Multi-Scale Autoregressive Modeling for Unconditional Time Series Generation](https://arxiv.org/abs/2601.11184) | None | WWW 2026 |
 | [CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation](https://arxiv.org/abs/2503.04164) | None | IJCAI 2025 |
 | [The Best of Both Worlds: On Repairing Timestamps and Attribute Values for Multivariate Time Series](https://dl.acm.org/doi/10.1145/3725367) | [Code](https://github.com/erssss/TAVhub) | SIGMOD 2025 |
 | [Largest Triangle Sampling for Visualizing Time Series in Database](https://dl.acm.org/doi/10.1145/3709699) | [Code]( https://github.com/apache/iotdb/tree/research/LTS-visualization) | SIGMOD 2025 |
@@ -411,6 +420,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Interpretable Dynamic Network Modeling of Tensor Time Series via Kronecker Time-Varying Graphical Lasso](https://arxiv.org/abs/2602.08197) | [Code](https://github.com/Higashiguchi-Shingo/KTVGL) | WWW 2026 |
 | [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://openreview.net/forum?id=oZJFY2BQt2) | [Code](https://openreview.net/forum?id=oZJFY2BQt2) | ICLR 2026 Oral |
 | [GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series data](https://openreview.net/forum?id=PWM6FERWz9) | None | ICLR 2026 |
 | [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078) | [Code](https://github.com/zhangda1018/FusAD) | ICDE 2026 |
@@ -430,6 +440,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder](https://arxiv.org/abs/2306.06579) | [Code](https://github.com/anhduy0911/CoInception) | ICDM 2024|
 | [A Shapelet-based Framework for Unsupervised Multivariate Time Series Representation Learning](https://www.vldb.org/pvldb/vol17/p386-wang.pdf) | [Code](https://github.com/real2fish/CSL) | VLDB 2024|
 
+
+
+
 ## Time Series Causal Discovery
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
@@ -437,9 +450,14 @@ This repository is a comprehensive collection of recent research papers and reso
 | [DyCAST: Learning Dynamic Causal Structure from Time Series](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3DWjDjem8mWE) | None | ICLR 2025 |
 | [CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series](https://openreview.net/forum?id=wmV4cIbgl6) | [Code](https://openreview.net/forum?id=wmV4cIbgl6) | ICLR 2025 |
 
+
+
+
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification](https://arxiv.org/abs/2601.10312) | [Code](https://github.com/ZhipengLiu75/DualCD) | WWW 2026 |
+| [Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224) | [Code](https://github.com/Meteor-Stars/APTF) | WWW 2026 |
 | [TIMESLIVER : SYMBOLIC-LINEAR DECOMPOSITION FOR EXPLAINABLE TIME SERIES CLASSIFICATION](https://openreview.net/forum?id=MDRp9XhGtS) | [Code](https://openreview.net/forum?id=MDRp9XhGtS) | ICLR 2026 |
 | [Counterfactual eXplainable AI (XAI) Method for Deep Learning-Based Multivariate Time Series Classification](https://arxiv.org/abs/2511.13237) | [Code](https://github.com/serval-uni-lu/confetti) | AAAI 2026 |
 | [MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification](https://arxiv.org/abs/2503.15578) | None | AAAI 2026 |
