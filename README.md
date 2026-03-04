@@ -1,4 +1,5 @@
 # Awesome Time Series Papers
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork)
 ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star)
@@ -305,6 +306,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 </details>
 
+
+
 ## Time Series Anomaly Detection
 
 | Method Name | Code | Source |
@@ -351,7 +354,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Variational Transformer-based anomaly detection approach for multivariate time series](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914) | None | Measurement 2022 |
 
 
+
+
 ## Time Series Foundation Model
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [CauKer: classification time series foundation models can be pretrained on synthetic data only](https://arxiv.org/abs/2508.02879) | [Code](https://openreview.net/forum?id=xBW2FIfswU) | ICLR 2026 Oral |
@@ -377,7 +383,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [A decoder-only foundation model for time-series forecasting💛⭐](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
 
 
+
+
 ## Time Series Early Classification
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [EarlyMix: Hierarchical Mixing for Early Time Series Classification💛](https://www.computer.org/csdl/proceedings-article/icme/2025/11209452/2beCG8sJoEo) | [Code](https://github.com/TSCenter/EarlyMix) | ICME 2025 | 
@@ -386,7 +395,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TEASER: Early and Accurate Time Series Classification💛](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
 | [An Effective Confidence-Based Early Classification of Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8765556) | [Code](https://github.com/junweilvhfut/ECEC) | Access 2019|
 
+
+
 ## Irregular Time Series Learning
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://openreview.net/forum?id=IAnIlFsPEW) | [Code](https://openreview.net/forum?id=IAnIlFsPEW) | ICLR 2026 |
@@ -407,7 +419,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | [EMIT - Event Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/abs/2409.16554) | [Code](https://github.com/hrishi-ds/EMIT) | ICDM 2024 |
 
 
+
 ## Time Series Data Processing
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Predictability-Aware Compression and Decompression Framework for Multichannel Time Series Data with Latent Seasonality](https://arxiv.org/abs/2506.00614) | None | WWW 2026 |
@@ -419,7 +433,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Camel: Efficient Compression of Floating-Point Time Series](https://dl.acm.org/doi/pdf/10.1145/3698802) | [Code](https://github.com/yoyo185644/camel) | SIGMOD 2025 |
 | [Multivariate Time Series Cleaning under Speed Constraints](https://arxiv.org/abs/2411.01214) | [Code](https://anonymous.4open.science/r/mtcsc-E4CC) | SIGMOD 2025 |
 
+
+
 ## Time Series Representation Learning
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Interpretable Dynamic Network Modeling of Tensor Time Series via Kronecker Time-Varying Graphical Lasso](https://arxiv.org/abs/2602.08197) | [Code](https://github.com/Higashiguchi-Shingo/KTVGL) | WWW 2026 |
@@ -445,7 +462,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 
 
+
 ## Time Series Causal Discovery
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism](https://www.arxiv.org/abs/2505.07180) | None | IJCAI 2025 |
@@ -455,7 +474,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 
 
+
 ## Time Series Classification
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification](https://arxiv.org/abs/2601.10312) | [Code](https://github.com/ZhipengLiu75/DualCD) | WWW 2026 |
@@ -472,6 +493,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://openreview.net/pdf?id=SbEFbBhNRd) | None | WWW 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [Advancing Time Series Classification with Multimodal Language Modeling](https://arxiv.org/abs/2403.12371) | [Code](https://github.com/Mingyue-Cheng/InstructTime) | WSDM 2024|
+
+
 
 ## Theory Resource
 
