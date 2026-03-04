@@ -147,8 +147,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](https://arxiv.org/pdf/2507.21830) | [Code](https://github.com/BenchCouncil/DualSG) | MM 2025 |
 | [Towards Measuring and Modeling Geometric Structures in Time Series Forecasting via Image Modality](https://dl.acm.org/doi/10.1145/3746027.3754794) | None | MM 2025 |
 | [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting⭐](https://arxiv.org/pdf/2402.16132) | [Code](https://github.com/AdityaLab/lstprompt) | ACL 2025 |
-| [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442)| [Code](https://github.com/ZhiningLiu1998/TimeFuse)| ICML 2025 |
-| [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)| [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
+| [Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting](https://arxiv.org/abs/2505.18442) | [Code](https://github.com/ZhiningLiu1998/TimeFuse) | ICML 2025 |
+| [TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041) | [Code](https://github.com/TROUBADOUR000/TimeFilter) | ICML 2025 |
 | [K² VAE: A Koopman‑Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting⭐](https://arxiv.org/abs/2505.23017) | [Code](https://github.com/decisionintelligence/K2VAE) | ICML 2025 |
 | [CMoS: Rethinking Time Series Prediction Through the Lens of Chunk‑wise Spatial Correlations](https://arxiv.org/abs/2505.19090) | [Code](https://github.com/CSTCloudOps/CMoS) | ICML 2025 |
 | [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)   | [Code](https://github.com/decisionintelligence/LightGTS) | ICML 2025 |
@@ -204,7 +204,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
 | [Revisiting Attention for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2407.13806) | [Code](https://github.com/Joeland4/FSatten-SOatten) | AAAI 2025 |
-| [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/pdf/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
 | [Unlocking the Power of Patch: Patch-Based MLP for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.13575) | [Code](https://github.com/TangPeiwang/PatchMLP) | AAAI 2025 |
 | [Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting](https://arxiv.org/pdf/2406.03751) | [Code](https://github.com/TROUBADOUR000/AMD) | AAAI 2025 |
 | [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/pdf/2412.18144) | [Code](https://github.com/complex-ai-lab/ncc) | AAAI 2025 |
@@ -262,10 +261,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting](https://arxiv.org/abs/2405.10800) | [Code](https://github.com/XDZhelheim/HimNet) | KDD 2024|
 | [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
 | [UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction](https://arxiv.org/abs/2402.11838) | [Code](https://github.com/tsinghua-fib-lab/UniST) | KDD 2024|
-| [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) | [Code](https://github.com/mims-harvard/units) | Arxiv |
+| [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) | [Code](https://github.com/mims-harvard/units) | arXiv |
 | [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting⭐](https://arxiv.org/pdf/2403.09898.pdf) | [Code](https://github.com/Atik-Ahamed/TimeMachine) | ECAI 2024 |
-| [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) | [Code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | Arxiv |
-| [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [Code](https://github.com/AI4CTS/E2Usd)| WWW 2024 |
+| [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) | [Code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | arXiv |
+| [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [Code](https://github.com/AI4CTS/E2Usd) | WWW 2024 |
 | [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW 2024 |
 | [Dynamic Multi-Network Mining of Tensor Time Series](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW 2024 |
 | [CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting](https://openreview.net/forum?id=MJksrOhurE) | [Code](https://github.com/wxie9/card) | ICLR 2024 |
@@ -341,7 +340,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/10.1145/3637528.3671680) | None | KDD 2024|
 | [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | None | WWW 2024 |
 | [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
-| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
+| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE) | WWW 2024 |
 | [MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=UFW67uduJd) | None | NeurIPS 2023 |
 | [CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) | [Code](https://github.com/mmichaelzhang/CAT) | KDD 2022 |
 | [DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection💛](https://ieeexplore.ieee.org/abstract/document/9626552) | None | TKDE 2022 |
@@ -391,7 +390,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | ------- | ------ | ---------- |
 | [EarlyMix: Hierarchical Mixing for Early Time Series Classification💛](https://www.computer.org/csdl/proceedings-article/icme/2025/11209452/2beCG8sJoEo) | [Code](https://github.com/TSCenter/EarlyMix) | ICME 2025 | 
 | [Second-order Confidence Network for Early Classification of Time Series💛](https://dl.acm.org/doi/10.1145/3631531) | None | TIST 2023 |
-| [CALIMERA: : A new early time series classification method](https://dl.acm.org/doi/10.1016/j.ipm.2023.103465) | [Code](https://github.com/JakubBilski/CALIMERA) | IPM 2023 |
+| [CALIMERA: A new early time series classification method](https://dl.acm.org/doi/10.1016/j.ipm.2023.103465) | [Code](https://github.com/JakubBilski/CALIMERA) | IPM 2023 |
 | [TEASER: Early and Accurate Time Series Classification💛](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
 | [An Effective Confidence-Based Early Classification of Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8765556) | [Code](https://github.com/junweilvhfut/ECEC) | Access 2019|
 
