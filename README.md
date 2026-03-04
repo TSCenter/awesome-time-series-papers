@@ -1,10 +1,10 @@
 # Awesome Time Series Papers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lience](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License](https://img.shields.io/github/license/hushuguo/awesome-time-series-papers.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Forks](https://img.shields.io/github/forks/hushuguo/awesome-time-series-papers.svg?style=social&label=Fork)
 ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers.svg?style=social&label=Star)
 
-**This is An Awesome List of the latest time series papers and code from top AI venues！！！**
+**This is an awesome list of the latest time series papers and code from top AI venues!**
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including time series forecasting, time series anomaly detection, time series early classification, irregular time series learning, time series representation learning, and more. 
 
@@ -89,7 +89,7 @@ This repository is a comprehensive collection of recent research papers and reso
 </details>
 
 
-## Cateloge
+## Catalog
 <div align="center">
 
   [Time Series Forecasting](#time-series-forecasting) 
@@ -133,7 +133,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://openreview.net/forum?id=emkvZ7NanK) | [Code](https://openreview.net/forum?id=emkvZ7NanK) | ICLR 2026 |
 | [ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://openreview.net/forum?id=WGqibe5H3W) | [Code](https://openreview.net/forum?id=WGqibe5H3W) | ICLR 2026 |
 | [Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://openreview.net/forum?id=GZ9uSxY3Yn) | [Code](https://openreview.net/forum?id=GZ9uSxY3Yn) | ICLR 2026 |
-| [Go to ICLR 2026 Conference homepage Numerion: A Multi-Hypercomplex Model for Time Series Forecasting](https://openreview.net/forum?id=2hCwLqx5gm) | None | ICLR 2026 |
+| [Numerion: A Multi-Hypercomplex Model for Time Series Forecasting](https://openreview.net/forum?id=2hCwLqx5gm) | None | ICLR 2026 |
 | [Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring](https://openreview.net/forum?id=ZHW5pp5nE5) | None | ICLR 2026 |
 | [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://openreview.net/forum?id=Uv3efQiPBZ) | None | ICLR 2026 |
 | [Online time series prediction using feature adjustment](https://openreview.net/forum?id=s4U2FWEMTU) | None | ICLR 2026 |
