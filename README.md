@@ -306,6 +306,7 @@ This repository is a comprehensive collection of recent research papers and reso
 </details>
 
 ## Time Series Anomaly Detection
+
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) | [Code](https://github.com/mllm-ts/VisualTimeAnomaly) | WWW 2026 |
@@ -348,6 +349,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Spacecraft Anomaly Detection via Transformer Reconstruction Error](http://www.utias.utoronto.ca/wp-content/uploads/2019/07/88-Spacecraft-anomaly-detection-via-transformer-reconstruction-error.pdf) | None | ICASSE 2019 |
 | [Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/9601669) | None | CCDC 2021 |
 | [Variational Transformer-based anomaly detection approach for multivariate time series](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914) | None | Measurement 2022 |
+
 
 ## Time Series Foundation Model
 | Method Name | Code | Source |
