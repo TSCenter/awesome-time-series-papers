@@ -274,8 +274,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs) | None | ICLR 2024 |
 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting💛](https://openreview.net/forum?id=JePfAI8fah) | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
 | [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting💛](https://openreview.net/pdf?id=7oLshfEIC2) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
-| [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
-| [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
+| [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](https://arxiv.org/abs/2403.05406) | [Code](https://github.com/flare200020/HTV_Trans) | AAAI 2024 |
+| [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29085) | None | AAAI 2024 |
 
 </details>
 
