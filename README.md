@@ -139,6 +139,18 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Online time series prediction using feature adjustment](https://openreview.net/forum?id=s4U2FWEMTU) | None | ICLR 2026 |
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
+| [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) | None | ICDE 2026 |
+| [Time-varying Vector Field Compression with Preserved Critical Point Trajectories](https://arxiv.org/abs/2510.25143) | [Code](https://github.com/szcompressor/cpSZ) | ICDE 2026 |
+| [Geography-Aware Large Language Model for Next POI Recommendation](https://arxiv.org/abs/2505.13526) | [Code](https://github.com/kevin-xuan/Next-POI-Recommendation) | ICDE 2026 |
+| [Online Multi-Modal Spatio-Temporal Prediction: A Reinforcement Learning and Dynamic Contrastive Framework](https://arxiv.org/abs/2510.04020?) | [Code](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning) | ICDE 2026 |
+| [VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility](https://arxiv.org/abs/2603.11816) | [Code](https://github.com/ChenxiLiu-HNU/ST-LLM) | ICDE 2026 |
+| [DNA: A Distribution-and-Aggregation Solution for Spatiotemporal K-function-based Analysis](https://arxiv.org/abs/2504.01531) | [Code](https://github.com/thengl/GeoMLA) | ICDE 2026 |
+| [Efficient Traffic Forecasting on Large-Scale Road Network by Regularized Adaptive Graph Convolution](https://arxiv.org/abs/2506.07179) | [Code](https://github.com/jwwthu/GNN4Traffic) | ICDE 2026 |
+| [Efficient Model-Agnostic Continual Learning for Next POI Recommendation](https://arxiv.org/abs/2511.08941) | [Code](https://github.com/kevin-xuan/Next-POI-Recommendation) | ICDE 2026 |
+| [Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction](https://arxiv.org/abs/2506.18939) | None | ICDE 2026 |
+| [Spatiotemporal Sketch Disaggregation: Streaming Analytics with Heterogeneous Resources](https://arxiv.org/abs/2503.13515) | [Code](https://github.com/byungsoo-oh/ml-systems-papers) | ICDE 2026 |
+| [SOLAR: Scalable Distributed Spatial Joins through Learning-based Optimization](https://arxiv.org/abs/2504.01292) | None | ICDE 2026 |
+| [OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models](https://arxiv.org/abs/2512.04738) | None | ICDE 2026 |
 
 ### 2025
 
@@ -316,7 +328,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://openreview.net/forum?id=NXThkM7Iym) | [Code](https://openreview.net/forum?id=NXThkM7Iym) | ICLR 2026 |
 | [When Foundation Models are One-Liners: Limitations and Future Directions for Time Series Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) | [Code](https://openreview.net/forum?id=H27kvyG4qf) | ICLR 2026 |
 | [ICDiffAD: Implicit Conditioning Diffusion Model for Time Series Anomaly Detection](https://openreview.net/forum?id=HIkuWAikXC) | None | ICLR 2026 |
-| [An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data](https://arxiv.org/abs/2510.18998) | None | ICDE 2026 |
+| [An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data](https://arxiv.org/abs/2510.18998) | [Code](https://github.com/EnsiyeTahaei/DeepAnT-Time-Series-Anomaly-Detection) | ICDE 2026 |
 | [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://arxiv.org/abs/2506.06836) | [Code](https://github.com/ZLHe0/VLM4TS) | AAAI 2026 |
 | [A Theoretical Analysis of Detecting Large Model-Generated Time Series](https://arxiv.org/abs/2511.07104) | None | AAAI 2026 |
 | [Finding Time Series Anomalies using Granular-ball Vector Data Description](https://www.arxiv.org/abs/2511.12147) | None | AAAI 2026 |
@@ -431,6 +443,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [In-Database Time Series Clustering](https://dl.acm.org/doi/pdf/10.1145/3709696) | [Code](https://github.com/indb-ts-cluster/indb-ts-cluster) | SIGMOD 2025 |
 | [Camel: Efficient Compression of Floating-Point Time Series](https://dl.acm.org/doi/pdf/10.1145/3698802) | [Code](https://github.com/yoyo185644/camel) | SIGMOD 2025 |
 | [Multivariate Time Series Cleaning under Speed Constraints](https://arxiv.org/abs/2411.01214) | [Code](https://anonymous.4open.science/r/mtcsc-E4CC) | SIGMOD 2025 |
+| [RISK: Efficiently processing rich spatial-keyword queries on encrypted geo-textual data](https://arxiv.org/abs/2602.20952) | None | ICDE 2026 |
 
 
 
