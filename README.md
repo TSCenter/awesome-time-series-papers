@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/4/20: **Add WSDM 2026 Papers**
+
 🚩 2026/3/16: **Add ICDE 2026 Papers**
 
 🚩 2026/3/4: **Add WWW 2026 Papers**
@@ -126,6 +128,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://dl.acm.org/doi/10.1145/3773966.3777931) | [Code](https://github.com/realwangjiahao/TimeReasoner) | WSDM 2026 |
 | [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) | [Code](https://github.com/kbrother/STemDist) | ICDE 2026 |
 | [VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility](https://arxiv.org/abs/2603.11816) | [Code](https://github.com/PlanckChang/VisiFold) | ICDE 2026 |
 | [Regularized Adaptive Graph Learning for Large-Scale Traffic Forecasting](https://arxiv.org/abs/2506.07179) | None | ICDE 2026 |
@@ -452,6 +455,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078) | [Code](https://github.com/zhangda1018/FusAD) | ICDE 2026 |
 | [Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/pdf/2511.17008) | [Code](https://github.com/yueliangy/EMTC) | AAAI 2026 |
 | [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783) | None | AAAI 2026 |
+| [TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders](https://dl.acm.org/doi/10.1145/3773966.3778007) | [Code](https://github.com/Mingyue-Cheng/TimeMAE) | WSDM 2026 |
 | [TRACE: Contrastive learning for multi-trial time series data in neuroscience](https://arxiv.org/pdf/2506.04906) | [Code](https://osf.io/x7qsm/?view_only=e5fd82164c8a4a30807cdba400d80c28) | NeurIPS 2025 |
 | [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/abs/2509.25278) | [Code](https://github.com/payalmohapatra/MAESTRO) | NeurIPS 2025 |
 |[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114) | None | NeurIPS 2025 | 
@@ -474,6 +478,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Confounder-Aware Causal Graph Learning Framework for Multivariate Time Series Analysis](https://dl.acm.org/doi/10.1145/3773966.3779366) | None | WSDM 2026 |
 | [Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism](https://www.arxiv.org/abs/2505.07180) | None | IJCAI 2025 |
 | [DyCAST: Learning Dynamic Causal Structure from Time Series](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3DWjDjem8mWE) | None | ICLR 2025 |
 | [CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series](https://openreview.net/forum?id=wmV4cIbgl6) | [Code](https://openreview.net/forum?id=wmV4cIbgl6) | ICLR 2025 |
