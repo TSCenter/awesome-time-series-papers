@@ -450,7 +450,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [TimeMar: Multi-Scale Autoregressive Modeling for Unconditional Time Series Generation](https://arxiv.org/abs/2601.11184) | None | WWW 2026 |
 | [CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation](https://arxiv.org/abs/2503.04164) | None | IJCAI 2025 |
 | [The Best of Both Worlds: On Repairing Timestamps and Attribute Values for Multivariate Time Series](https://dl.acm.org/doi/10.1145/3725367) | [Code](https://github.com/erssss/TAVhub) | SIGMOD 2025 |
-| [Largest Triangle Sampling for Visualizing Time Series in Database](https://dl.acm.org/doi/10.1145/3709699) | [Code]( https://github.com/apache/iotdb/tree/research/LTS-visualization) | SIGMOD 2025 |
+| [Largest Triangle Sampling for Visualizing Time Series in Database](https://dl.acm.org/doi/10.1145/3709699) | [Code](https://github.com/apache/iotdb/tree/research/LTS-visualization) | SIGMOD 2025 |
 | [In-Database Time Series Clustering](https://dl.acm.org/doi/pdf/10.1145/3709696) | [Code](https://github.com/indb-ts-cluster/indb-ts-cluster) | SIGMOD 2025 |
 | [Camel: Efficient Compression of Floating-Point Time Series](https://dl.acm.org/doi/pdf/10.1145/3698802) | [Code](https://github.com/yoyo185644/camel) | SIGMOD 2025 |
 | [Multivariate Time Series Cleaning under Speed Constraints](https://arxiv.org/abs/2411.01214) | [Code](https://anonymous.4open.science/r/mtcsc-E4CC) | SIGMOD 2025 |
