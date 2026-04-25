@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/4/25: **Add KDD 2026 Papers (Round 1)**
+
 🚩 2026/4/20: **Add WSDM 2026 Papers**
 
 🚩 2026/3/16: **Add ICDE 2026 Papers**
@@ -114,6 +116,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
   [Time Series Data Processing](#time-series-data-processing)
 
+  [Time Series Analysis and Systems](#time-series-analysis-and-systems)
+
   [Theory Resource](#theory-resource)
   
   [Code Resource](#code-resource)
@@ -128,6 +132,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016) | [Code](https://github.com/LingFengGold/TimeDistill) | KDD 2026 |
+| [LoFT-LLM: Low-Frequency Time-series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002) | [Code](https://github.com/yjcGitHub0/LoFT-LLM) | KDD 2026 |
+| [How to Train Your Mamba for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3770854.3780279) | None | KDD 2026 |
+| [From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818) | None | KDD 2026 |
+| [ChannelMTS: A Multi-modal Time-Series Framework for High-Speed Railway Channel Prediction](https://dl.acm.org/doi/10.1145/3770854.3783957) | None | KDD 2026 |
+| [MoST: A Foundation Model for Multi-modality Spatio-temporal Traffic Prediction](https://dl.acm.org/doi/10.1145/3770854.3780162) | None | KDD 2026 |
 | [Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://dl.acm.org/doi/10.1145/3773966.3777931) | [Code](https://github.com/realwangjiahao/TimeReasoner) | WSDM 2026 |
 | [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) | [Code](https://github.com/kbrother/STemDist) | ICDE 2026 |
 | [VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility](https://arxiv.org/abs/2603.11816) | [Code](https://github.com/PlanckChang/VisiFold) | ICDE 2026 |
@@ -321,6 +331,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning](https://dl.acm.org/doi/10.1145/3770854.3780265) | [Code](https://zenodo.org/records/18042701) | KDD 2026 |
 | [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) | [Code](https://github.com/mllm-ts/VisualTimeAnomaly) | WWW 2026 |
 | [ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](https://arxiv.org/abs/2510.04710) | None | WWW 2026 |
 | [PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://openreview.net/forum?id=NXThkM7Iym) | [Code](https://openreview.net/forum?id=NXThkM7Iym) | ICLR 2026 |
@@ -433,6 +444,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimeBridge: Better Diffusion Prior Design with Bridge Models for Time Series Generation](https://arxiv.org/abs/2408.06672) | [Code](https://github.com/JinseongP/TimeBridge) | KDD 2026 |
+| [Instruction-based Time Series Editing](https://arxiv.org/abs/2508.01504) | [Code](https://github.com/JiaxingQiu/InstructTime) | KDD 2026 |
 | [Predictability-Aware Compression and Decompression Framework for Multichannel Time Series Data with Latent Seasonality](https://arxiv.org/abs/2506.00614) | None | WWW 2026 |
 | [TimeMar: Multi-Scale Autoregressive Modeling for Unconditional Time Series Generation](https://arxiv.org/abs/2601.11184) | None | WWW 2026 |
 | [CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation](https://arxiv.org/abs/2503.04164) | None | IJCAI 2025 |
@@ -442,6 +455,16 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Camel: Efficient Compression of Floating-Point Time Series](https://dl.acm.org/doi/pdf/10.1145/3698802) | [Code](https://github.com/yoyo185644/camel) | SIGMOD 2025 |
 | [Multivariate Time Series Cleaning under Speed Constraints](https://arxiv.org/abs/2411.01214) | [Code](https://anonymous.4open.science/r/mtcsc-E4CC) | SIGMOD 2025 |
 | [RISK: Efficiently processing rich spatial-keyword queries on encrypted geo-textual data](https://arxiv.org/abs/2602.20952) | None | ICDE 2026 |
+
+
+
+## Time Series Analysis and Systems
+
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
+| [AHA: Scalable Alternative History Analysis for Operational Timeseries Applications](https://arxiv.org/abs/2601.04432) | [Code](https://anonymous.4open.science/r/AHA_KDD25-3B63/) | KDD 2026 |
+| [Neural Predictive Control to Coordinate Discrete- and Continuous-Time Models for Time-Series Analysis with Control-Theoretical Improvements](https://arxiv.org/abs/2508.01833) | None | KDD 2026 |
+
 
 
 
