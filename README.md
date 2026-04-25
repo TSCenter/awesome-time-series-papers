@@ -137,7 +137,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [How to Train Your Mamba for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3770854.3780279) | None | KDD 2026 |
 | [From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818) | None | KDD 2026 |
 | [ChannelMTS: A Multi-modal Time-Series Framework for High-Speed Railway Channel Prediction](https://dl.acm.org/doi/10.1145/3770854.3783957) | None | KDD 2026 |
-| [MoST: A Foundation Model for Multi-modality Spatio-temporal Traffic Prediction](https://dl.acm.org/doi/10.1145/3770854.3780162) | None | KDD 2026 |
 | [Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://dl.acm.org/doi/10.1145/3773966.3777931) | [Code](https://github.com/realwangjiahao/TimeReasoner) | WSDM 2026 |
 | [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) | [Code](https://github.com/kbrother/STemDist) | ICDE 2026 |
 | [VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility](https://arxiv.org/abs/2603.11816) | [Code](https://github.com/PlanckChang/VisiFold) | ICDE 2026 |
@@ -380,6 +379,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [MoST: A Foundation Model for Multi-modality Spatio-temporal Traffic Prediction](https://dl.acm.org/doi/10.1145/3770854.3780162) | None | KDD 2026 |
 | [CauKer: classification time series foundation models can be pretrained on synthetic data only](https://arxiv.org/abs/2508.02879) | [Code](https://openreview.net/forum?id=xBW2FIfswU) | ICLR 2026 Oral |
 | [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://openreview.net/forum?id=kOIclg7muL) | None | ICLR 2026 |
 | [Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy) | None | ICLR 2026 |
