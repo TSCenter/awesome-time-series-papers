@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/6/4: **Add SIGMOD 2026 Papers**
+
 🚩 2026/4/25: **Add KDD 2026 Papers (Round 1)**
 
 🚩 2026/4/20: **Add WSDM 2026 Papers**
@@ -330,6 +332,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [HYDRA: A Multi-Level Hierarchy-Driven Approach for Robust Anomaly Detection in Time Series](https://dl.acm.org/doi/10.1145/3802074) | [Code](https://github.com/TheDatumOrg/HYDRA) | SIGMOD 2026 |
+| [GlassboxAD: An Interactive System for Dissecting Hierarchical Time-Series Anomaly Detection](https://2026.sigmod.org/sigmod_demos.shtml) | None | SIGMOD 2026 |
 | [Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning](https://dl.acm.org/doi/10.1145/3770854.3780265) | [Code](https://zenodo.org/records/18042701) | KDD 2026 |
 | [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) | [Code](https://github.com/mllm-ts/VisualTimeAnomaly) | WWW 2026 |
 | [ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](https://arxiv.org/abs/2510.04710) | None | WWW 2026 |
@@ -444,6 +448,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models](https://arxiv.org/abs/2503.06231) | [Code](https://github.com/adis98/WaveStitch) | SIGMOD 2026 |
+| [FLEA: Frequency-based Lossless Encoding Algorithm for Periodic Time Series](https://dl.acm.org/doi/10.1145/3802063) | [Code](https://github.com/apache/iotdb/tree/research/encoding-periodic) | SIGMOD 2026 |
+| [SHoTClean: Bridging Soft and Hard Constraints for Multivariate Time Series Cleaning](https://dl.acm.org/doi/10.1145/3786698) | None | SIGMOD 2026 |
+| [Cleaning Time Series under Seasonal and Trend Constraints](https://dl.acm.org/doi/10.1145/3769773) | None | SIGMOD 2026 |
+| [Visualization-Oriented Progressive Time Series Transformation](https://dl.acm.org/doi/10.1145/3769841) | [Code](https://github.com/ChenXin360104/PIVOT) | SIGMOD 2026 |
 | [TimeBridge: Better Diffusion Prior Design with Bridge Models for Time Series Generation](https://arxiv.org/abs/2408.06672) | [Code](https://github.com/JinseongP/TimeBridge) | KDD 2026 |
 | [Instruction-based Time Series Editing](https://arxiv.org/abs/2508.01504) | [Code](https://github.com/JiaxingQiu/InstructTime) | KDD 2026 |
 | [Predictability-Aware Compression and Decompression Framework for Multichannel Time Series Data with Latent Seasonality](https://arxiv.org/abs/2506.00614) | None | WWW 2026 |
