@@ -560,6 +560,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [A collection of time series prediction methods](https://github.com/LongxingTan/Time-series-prediction) | [GitHub](https://github.com/LongxingTan/Time-series-prediction) | Collection of methods |
 | [Flow Forecast: A deep learning framework for time series forecasting](https://github.com/AIStream-Peelout/flow-forecast) | [GitHub](https://github.com/AIStream-Peelout/flow-forecast) | Deep learning framework |
 
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | [MCP Endpoint](https://intel.twzrd.xyz/mcp) | On-chain behavioral time series anomaly scoring for AI agent wallets on Solana. Detects wash trading and abnormal patterns |
+
 
 
 ## Star History
