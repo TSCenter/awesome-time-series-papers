@@ -20,6 +20,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 🚩 2026/6/14: **Add IJCAI 2026 Papers**
 
+🚩 2026/6/14: **Add Theory Resource**
+
 🚩 2026/6/4: **Add SIGMOD 2026 Papers**
 
 🚩 2026/4/25: **Add KDD 2026 Papers (Round 1)**
@@ -555,6 +557,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Course Name | Link | Source |
 | ----------- | ---- | ------ |
+| [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | [Penn State Statistics Online](https://online.stat.psu.edu/) | Penn State |
+| [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | [OTexts](https://otexts.com/) | OTexts |
+| [Time Series and Dynamic Models](https://stat.duke.edu/courses/time-series-and-dynamic-models) | [Duke Statistical Science](https://stat.duke.edu/) | Duke |
+| [Applied Time Series Analysis in Fisheries and Environmental Science](https://atsa-es.github.io/atsa/) | [University of Washington](https://www.washington.edu/) | University of Washington |
+| [Time Series Analysis](https://vlyubchich.github.io/tsar/) | [University of Maryland](https://umd.edu/) | University of Maryland |
 | [Time Series Analysis, MIT](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/) | [MIT OCW](https://ocw.mit.edu/) | MIT |
 | [Time Series Forecasting, Udacity](https://www.udacity.com/course/time-series-forecasting--ud980) | [Udacity](https://www.udacity.com/) | Udacity |
 | [Practical Time Series Analysis, Coursera](https://www.coursera.org/learn/practical-time-series-analysis) | [Coursera](https://www.coursera.org/) | Coursera |
