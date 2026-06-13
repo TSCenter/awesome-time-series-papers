@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/6/14: **Add IJCAI 2026 Papers**
+
 🚩 2026/6/4: **Add SIGMOD 2026 Papers**
 
 🚩 2026/4/25: **Add KDD 2026 Papers (Round 1)**
@@ -134,6 +136,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [EVENTTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434) | [Code](https://github.com/WinfredGe/EventTSF) | IJCAI 2026 |
+| [SeesawNet: Towards Non-stationary Time Series Forecasting with Balanced Modeling of Common and Specific Dependencies](https://arxiv.org/abs/2605.14551) | [Code](https://github.com/dreamone-Lee/SeesawNet) | IJCAI 2026 |
+| [From Values to Tokens: An LLM-Driven Framework for Context-Aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191) | [Code](https://github.com/ustc-time-series/TokenCast) | IJCAI 2026 |
 | [TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016) | [Code](https://github.com/LingFengGold/TimeDistill) | KDD 2026 |
 | [LoFT-LLM: Low-Frequency Time-series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002) | [Code](https://github.com/yjcGitHub0/LoFT-LLM) | KDD 2026 |
 | [How to Train Your Mamba for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3770854.3780279) | None | KDD 2026 |
@@ -332,6 +337,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Learning Hyperspherical Time–Frequency Representations for Time-Series Out-of-Distribution Detection](https://arxiv.org/abs/2605.31155) | [Code](https://github.com/tiiuae/hypertf-time-series-ood) | IJCAI 2026 |
 | [HYDRA: A Multi-Level Hierarchy-Driven Approach for Robust Anomaly Detection in Time Series](https://dl.acm.org/doi/10.1145/3802074) | [Code](https://github.com/TheDatumOrg/HYDRA) | SIGMOD 2026 |
 | [GlassboxAD: An Interactive System for Dissecting Hierarchical Time-Series Anomaly Detection](https://2026.sigmod.org/sigmod_demos.shtml) | None | SIGMOD 2026 |
 | [Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning](https://dl.acm.org/doi/10.1145/3770854.3780265) | [Code](https://zenodo.org/records/18042701) | KDD 2026 |
@@ -471,6 +477,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Modeling Dynamic Mixtures of Time-Delay Systems from Streaming Time Series](https://arxiv.org/abs/2605.26191) | None | IJCAI 2026 |
+| [A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective](https://arxiv.org/abs/2502.10721) | [Code](https://github.com/decisionintelligence/CS4TS) | IJCAI 2026 |
+| [From Time Series Analysis to Question Answering: A Survey in the LLM Era](https://arxiv.org/abs/2506.11512) | None | IJCAI 2026 |
 | [AHA: Scalable Alternative History Analysis for Operational Timeseries Applications](https://arxiv.org/abs/2601.04432) | [Code](https://anonymous.4open.science/r/AHA_KDD25-3B63/) | KDD 2026 |
 | [Neural Predictive Control to Coordinate Discrete- and Continuous-Time Models for Time-Series Analysis with Control-Theoretical Improvements](https://arxiv.org/abs/2508.01833) | None | KDD 2026 |
 
@@ -523,6 +532,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [INSHAPE: Instance-Level Shapelets for Interpretable Time-Series Classification](https://arxiv.org/abs/2605.20088) | None | IJCAI 2026 |
+| [CASE-Net: Deep Spatio-Temporal Representation Learning via Causal Attention and Channel Recalibration for Multivariate Time Series Classification](https://arxiv.org/abs/2605.22043) | None | IJCAI 2026 |
 | [We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification](https://arxiv.org/abs/2601.10312) | [Code](https://github.com/ZhipengLiu75/DualCD) | WWW 2026 |
 | [Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224) | [Code](https://github.com/Meteor-Stars/APTF) | WWW 2026 |
 | [TIMESLIVER : SYMBOLIC-LINEAR DECOMPOSITION FOR EXPLAINABLE TIME SERIES CLASSIFICATION](https://openreview.net/forum?id=MDRp9XhGtS) | [Code](https://openreview.net/forum?id=MDRp9XhGtS) | ICLR 2026 |
