@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/6/15: **Update Code Resource**
+
 🚩 2026/6/14: **Add IJCAI 2026 Papers**
 
 🚩 2026/6/14: **Add Theory Resource**
@@ -577,6 +579,14 @@ This repository is a comprehensive collection of recent research papers and reso
 | [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) | [GitHub](https://github.com/jdb78/pytorch-forecasting) | Time series forecasting with PyTorch |
 | [A collection of time series prediction methods](https://github.com/LongxingTan/Time-series-prediction) | [GitHub](https://github.com/LongxingTan/Time-series-prediction) | Collection of methods |
 | [Flow Forecast: A deep learning framework for time series forecasting](https://github.com/AIStream-Peelout/flow-forecast) | [GitHub](https://github.com/AIStream-Peelout/flow-forecast) | Deep learning framework |
+| [Darts](https://github.com/unit8co/darts) | [GitHub](https://github.com/unit8co/darts) | Forecasting and anomaly detection |
+| [NeuralForecast](https://github.com/Nixtla/neuralforecast) | [GitHub](https://github.com/Nixtla/neuralforecast) | Neural forecasting models |
+| [StatsForecast](https://github.com/Nixtla/statsforecast) | [GitHub](https://github.com/Nixtla/statsforecast) | Statistical forecasting models |
+| [GluonTS](https://github.com/awslabs/gluonts) | [GitHub](https://github.com/awslabs/gluonts) | Probabilistic time series modeling |
+| [sktime](https://github.com/sktime/sktime) | [GitHub](https://github.com/sktime/sktime) | Time series machine learning |
+| [aeon](https://github.com/aeon-toolkit/aeon) | [GitHub](https://github.com/aeon-toolkit/aeon) | Time series machine learning toolkit |
+| [tsai](https://github.com/timeseriesAI/tsai) | [GitHub](https://github.com/timeseriesAI/tsai) | Deep learning for time series |
+| [Time Series Library (TSLib)](https://github.com/thuml/Time-Series-Library) | [GitHub](https://github.com/thuml/Time-Series-Library) | Deep time series model library |
 
 
 
