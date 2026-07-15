@@ -592,4 +592,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Star History
 
-[![Star History Chart](https://www.star-history.com/?repos=TSCenter%2Fawesome-time-series-papers&type=timeline&legend=top-left)](https://www.star-history.com/?repos=TSCenter%2Fawesome-time-series-papers&type=timeline&legend=top-left)
+## Star History
+
+<a href="https://www.star-history.com/?repos=TSCenter%2Fawesome-time-series-papers&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=TSCenter/awesome-time-series-papers&type=timeline&theme=dark&legend=top-left&sealed_token=lNDfWR4DBLY34QjVRyYwp1SwrpcQNQo0iv4j7rBQ7WbXMSpHS3h7ISRiWcB-Kn7vcNMav0T_CAY0s4q-QUnXcWF5iVFdLGGmC2ZMXNo8OUqvC-ih2yLSIw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=TSCenter/awesome-time-series-papers&type=timeline&legend=top-left&sealed_token=lNDfWR4DBLY34QjVRyYwp1SwrpcQNQo0iv4j7rBQ7WbXMSpHS3h7ISRiWcB-Kn7vcNMav0T_CAY0s4q-QUnXcWF5iVFdLGGmC2ZMXNo8OUqvC-ih2yLSIw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TSCenter/awesome-time-series-papers&type=timeline&legend=top-left&sealed_token=lNDfWR4DBLY34QjVRyYwp1SwrpcQNQo0iv4j7rBQ7WbXMSpHS3h7ISRiWcB-Kn7vcNMav0T_CAY0s4q-QUnXcWF5iVFdLGGmC2ZMXNo8OUqvC-ih2yLSIw" />
+ </picture>
+</a>
