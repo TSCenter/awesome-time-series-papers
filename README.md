@@ -592,4 +592,4 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hushuguo/awesome-time-series-papers&type=Timeline)](https://star-history.com/#hushuguo/awesome-time-series-papers&Timeline)
+[![Star History Chart](https://www.star-history.com/?repos=TSCenter%2Fawesome-time-series-papers&type=timeline&legend=top-left)](https://www.star-history.com/?repos=TSCenter%2Fawesome-time-series-papers&type=timeline&legend=top-left)
