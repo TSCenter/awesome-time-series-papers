@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/8/12: **Add ICML 2026 Papers**
+
 🚩 2026/6/15: **Update Code Resource**
 
 🚩 2026/6/14: **Add IJCAI 2026 Papers**
@@ -140,6 +142,27 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](https://openreview.net/forum?id=4kdkm56U5b) | [Code](https://github.com/KurohaneNioko/EADiff) | ICML 2026 |
+| [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://arxiv.org/abs/2605.19249) | [Code](https://github.com/yihannnnn/KUP-BI) | ICML 2026 |
+| [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](https://arxiv.org/abs/2605.01231) | [Code](https://github.com/BenchCouncil/CombinationTS) | ICML 2026 |
+| [DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933) | [Code](https://github.com/decisionintelligence/DAG) | ICML 2026 |
+| [Dynamic-TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.20678) | [Code](https://github.com/andone-07/Dynamic-TMoE) | ICML 2026 |
+| [From Observations to States: Latent Time Series Forecasting](https://arxiv.org/abs/2602.00297) | [Code](https://github.com/Muyiiiii/LatentTSF) | ICML 2026 |
+| [Generalizing Multi-scale Time-Series Modeling with a Single Operator](https://arxiv.org/abs/2605.31129) | [Code](https://github.com/cheonwoolee/SiGMA) | ICML 2026 |
+| [Time Series Forecasting Through the Lens of Dynamics](https://arxiv.org/abs/2507.15774) | [Code](https://github.com/ARBrachet/PRO-DYN/) | ICML 2026 |
+| [It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147) | [Code](https://github.com/zqiao11/TIME/) | ICML 2026 |
+| [Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](https://arxiv.org/abs/2605.23402) | [Code](https://github.com/ljl8336/PPM) | ICML 2026 |
+| [MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164) | [Code](https://github.com/Xiaoyu-Tao/MemCast-TS) | ICML 2026 |
+| [DistMatch: Adaptive Binning via Distribution Matching for Robust Sequential Conformal](https://arxiv.org/abs/2606.00690) | [Code](https://github.com/enver1323/dist_match_conformal) | ICML 2026 |
+| [U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecasting](https://arxiv.org/abs/2604.09041) | [Code](https://github.com/Rose-STL-Lab/u-cast) | ICML 2026 |
+| [KUMA: A Novel Framework with Koopman Separation and Efficient Multilevel Extraction in Time Series Forecasting](https://icml.cc/virtual/2026/poster/64743) | None | ICML 2026 |
+| [Do Time Series Foundation Model Benchmarks Hide Regime-Dependent Failures? Evidence from Traffic Speed Forecasting](https://arxiv.org/abs/2606.18367) | None | ICML 2026 |
+| [From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](https://arxiv.org/abs/2603.12664) | None | ICML 2026 |
+| [Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439) | None | ICML 2026 |
+| [Ellipsoidal Time Series Forecasting](https://arxiv.org/abs/2505.17370) | None | ICML 2026 |
+| [Nested Spatio-Temporal Time Series Forecasting](https://arxiv.org/abs/2605.16447) | None | ICML 2026 |
+| [FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](https://arxiv.org/abs/2508.05287) | None | ICML 2026 |
+| [Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](https://arxiv.org/abs/2606.13285) | None | ICML 2026 |
 | [EVENTTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434) | [Code](https://github.com/WinfredGe/EventTSF) | IJCAI 2026 |
 | [SeesawNet: Towards Non-stationary Time Series Forecasting with Balanced Modeling of Common and Specific Dependencies](https://arxiv.org/abs/2605.14551) | [Code](https://github.com/dreamone-Lee/SeesawNet) | IJCAI 2026 |
 | [From Values to Tokens: An LLM-Driven Framework for Context-Aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191) | [Code](https://github.com/ustc-time-series/TokenCast) | IJCAI 2026 |
@@ -341,6 +364,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimeRCD: Towards Foundation Models for Zero-Shot Time Series Anomaly Detection](https://arxiv.org/abs/2509.21190) | [Code](https://github.com/thu-sail-lab/Time-RCD) | ICML 2026 |
+| [IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection](https://arxiv.org/abs/2603.29183) | [Code](https://github.com/mala-lab/IMPACT) | ICML 2026 |
+| [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.08868) | None | ICML 2026 |
 | [Learning Hyperspherical Time–Frequency Representations for Time-Series Out-of-Distribution Detection](https://arxiv.org/abs/2605.31155) | [Code](https://github.com/tiiuae/hypertf-time-series-ood) | IJCAI 2026 |
 | [HYDRA: A Multi-Level Hierarchy-Driven Approach for Robust Anomaly Detection in Time Series](https://dl.acm.org/doi/10.1145/3802074) | [Code](https://github.com/TheDatumOrg/HYDRA) | SIGMOD 2026 |
 | [GlassboxAD: An Interactive System for Dissecting Hierarchical Time-Series Anomaly Detection](https://2026.sigmod.org/sigmod_demos.shtml) | None | SIGMOD 2026 |
@@ -393,6 +419,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [OLIVIA: Harmonizing Time Series Foundation Models with Power Spectral Density](https://arxiv.org/abs/2605.17340) | [Code](https://github.com/TSTS13/Olivia) | ICML 2026 |
+| [TimeOmni-VL: Unified Models for Time Series Understanding and Generation](https://arxiv.org/abs/2602.17149) | [Code](https://github.com/AntonGuan/TimeOmni-VL) | ICML 2026 |
+| [FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models](https://arxiv.org/abs/2605.09081) | [Code](https://github.com/Forgis-Labs/FactoryNet) | ICML 2026 |
 | [MoST: A Foundation Model for Multi-modality Spatio-temporal Traffic Prediction](https://dl.acm.org/doi/10.1145/3770854.3780162) | None | KDD 2026 |
 | [CauKer: classification time series foundation models can be pretrained on synthetic data only](https://arxiv.org/abs/2508.02879) | [Code](https://openreview.net/forum?id=xBW2FIfswU) | ICLR 2026 Oral |
 | [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://openreview.net/forum?id=kOIclg7muL) | None | ICLR 2026 |
@@ -435,6 +464,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278) | [Code](https://github.com/milaogou/HELIX) | ICML 2026 Spotlight |
+| [Latent Laplace Diffusion for Irregular Multivariate Time Series](https://arxiv.org/abs/2605.19805) | [Code](https://github.com/pixelhero98/LLapDiffusion) | ICML 2026 |
+| [QuITE: Query-Based Irregular Time Series Embedding](https://arxiv.org/abs/2605.28166) | [Code](https://github.com/Meaningfull9502/QuITE) | ICML 2026 |
+| [MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data](https://openreview.net/forum?id=Hvqkdu4Luv) | [Code](https://github.com/Oufattole/morgen) | ICML 2026 |
+| [Spatiotemporal Imputation with Graph-Informed Flow Matching](https://arxiv.org/abs/2606.06682) | [Code](https://github.com/zepengzhang/GiFlow) | ICML 2026 |
+| [Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time](https://openreview.net/attachment?id=IalpB5Mzaz&name=originally_submitted_PDF) | [Code](https://github.com/Pusheen-cat/TCF_PFM) | ICML 2026 |
 | [T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://openreview.net/forum?id=IAnIlFsPEW) | [Code](https://openreview.net/forum?id=IAnIlFsPEW) | ICLR 2026 |
 | [FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification](https://www.arxiv.org/abs/2511.10841) | [Code](https://github.com/yongkyung-oh/FlowPath) | AAAI 2026 |
 | [Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854) | None | AAAI 2026 |
@@ -458,6 +493,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases](https://arxiv.org/abs/2602.17001) | [Code](https://github.com/Atlamtiz/Sonar-TS) | ICML 2026 |
 | [WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models](https://arxiv.org/abs/2503.06231) | [Code](https://github.com/adis98/WaveStitch) | SIGMOD 2026 |
 | [FLEA: Frequency-based Lossless Encoding Algorithm for Periodic Time Series](https://dl.acm.org/doi/10.1145/3802063) | [Code](https://github.com/apache/iotdb/tree/research/encoding-periodic) | SIGMOD 2026 |
 | [SHoTClean: Bridging Soft and Hard Constraints for Multivariate Time Series Cleaning](https://dl.acm.org/doi/10.1145/3786698) | None | SIGMOD 2026 |
@@ -481,6 +517,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Interpretability in Deep Time Series Models Demands Semantic Alignment](https://arxiv.org/abs/2602.02239) | None | ICML 2026 |
 | [Modeling Dynamic Mixtures of Time-Delay Systems from Streaming Time Series](https://arxiv.org/abs/2605.26191) | None | IJCAI 2026 |
 | [A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective](https://arxiv.org/abs/2502.10721) | [Code](https://github.com/decisionintelligence/CS4TS) | IJCAI 2026 |
 | [From Time Series Analysis to Question Answering: A Survey in the LLM Era](https://arxiv.org/abs/2506.11512) | None | IJCAI 2026 |
@@ -494,6 +531,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/abs/2602.18645) | [Code](https://github.com/mims-harvard/ARTIST) | ICML 2026 |
+| [PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](https://arxiv.org/abs/2602.23161) | [Code](https://github.com/decisionintelligence/PATRA) | ICML 2026 |
+| [Divide and Contrast: Learning Robust Temporal Features Without Augmentation](https://arxiv.org/abs/2605.21241) | [Code](https://github.com/sfi-norwai/Di-COT) | ICML 2026 |
+| [Self-Supervised Dynamical System Representations for Physiological Time-Series](https://arxiv.org/abs/2512.00239) | [Code](https://github.com/yenhochen/PULSE) | ICML 2026 |
 | [Interpretable Dynamic Network Modeling of Tensor Time Series via Kronecker Time-Varying Graphical Lasso](https://arxiv.org/abs/2602.08197) | [Code](https://github.com/Higashiguchi-Shingo/KTVGL) | WWW 2026 |
 | [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://openreview.net/forum?id=oZJFY2BQt2) | [Code](https://openreview.net/forum?id=oZJFY2BQt2) | ICLR 2026 Oral |
 | [GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series data](https://openreview.net/forum?id=PWM6FERWz9) | None | ICLR 2026 |
