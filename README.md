@@ -18,7 +18,13 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/9/24: **Add KDD 2026 Papers (Round 2), VLDB 2026, ACL 2026, and CVPR 2026 Papers**
+🚩 2026/9/24: **Add KDD 2026 Papers (Round 2)**
+
+🚩 2026/9/24: **Add VLDB 2026 Papers**
+
+🚩 2026/9/24: **Add ACL 2026 Papers**
+
+🚩 2026/9/24: **Add CVPR 2026 Papers**
 
 🚩 2026/8/12: **Add ICML 2026 Papers**
 
