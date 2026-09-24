@@ -18,6 +18,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/9/24: **Add KDD 2026 Papers (Round 2), VLDB 2026, ACL 2026, and CVPR 2026 Papers**
+
 🚩 2026/8/12: **Add ICML 2026 Papers**
 
 🚩 2026/6/15: **Update Code Resource**
@@ -142,6 +144,15 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CCD: Capturing Cross-Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting](https://doi.org/10.1145/3770855.3817648) | [Code](https://github.com/decisionintelligence/CCD) | KDD 2026 |
+| [CAST-Norm: Coupled Adaptive Spatio-Temporal Normalization for Multivariate Time Series Forecasting](https://doi.org/10.1145/3770855.3817667) | [Code](https://github.com/xhhmacau/CAST_Norm) | KDD 2026 |
+| [Stationarity-Aware Retrieval-Augmented Time Series Forecasting](https://doi.org/10.1145/3770855.3817813) | [Code](https://github.com/ShiqiaoZhou/SARAF) | KDD 2026 |
+| [Beyond Linear Dynamics: Neural Bilinear Dynamical Models for Time Series Forecasting](https://doi.org/10.1145/3770855.3818066) | None | KDD 2026 |
+| [Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models](https://aclanthology.org/2026.acl-long.32/) | None | ACL 2026 |
+| [Is the Attention Matrix Really the Key to Self-Attention in Multivariate Long-Term Time Series Forecasting?](https://aclanthology.org/2026.acl-long.853/) | [Code](https://github.com/lxy-PhD2022/Attention) | ACL 2026 |
+| [Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1014/) | [Code](https://github.com/sunzju/MGSAA) | ACL 2026 |
+| [TransLLM: A Unified Multi-Task Large Language Model for Urban Transportation via Learnable Prompting](https://aclanthology.org/2026.acl-long.1195/) | [Code](https://github.com/lengjiaming/TransLLM) | ACL 2026 |
+| [TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1208/) | None | ACL 2026 |
 | [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](https://openreview.net/forum?id=4kdkm56U5b) | [Code](https://github.com/KurohaneNioko/EADiff) | ICML 2026 |
 | [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://arxiv.org/abs/2605.19249) | [Code](https://github.com/yihannnnn/KUP-BI) | ICML 2026 |
 | [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](https://arxiv.org/abs/2605.01231) | [Code](https://github.com/BenchCouncil/CombinationTS) | ICML 2026 |
@@ -364,6 +375,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [LatentFlow: Discovering Latent Continuous Dynamics across Channels for Multivariate Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818034) | [Code](https://github.com/SunboTax/LatentFlow) | KDD 2026 |
+| [LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818044) | [Code](https://github.com/DezhengWang/Left) | KDD 2026 |
+| [TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818062) | [Code](https://github.com/mala-lab/TimeRadar) | KDD 2026 |
+| [KDSelector: A Framework of Knowledge-Enhanced and Data-Efficient Selector Learning for Anomaly Detection Model Selection in Time Series](https://www.vldb.org/pvldb/vol19/p1935-wang.pdf) | [Code](https://github.com/chenyuanTKCY/KDSelectorAlgorithm) | VLDB 2026 |
 | [TimeRCD: Towards Foundation Models for Zero-Shot Time Series Anomaly Detection](https://arxiv.org/abs/2509.21190) | [Code](https://github.com/thu-sail-lab/Time-RCD) | ICML 2026 |
 | [IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection](https://arxiv.org/abs/2603.29183) | [Code](https://github.com/mala-lab/IMPACT) | ICML 2026 |
 | [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.08868) | None | ICML 2026 |
@@ -419,6 +434,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TS-Memory: Plug-and-Play Memory for Time Series Foundation Models](https://doi.org/10.1145/3770855.3817614) | [Code](https://github.com/sisuolv/TS-Memory) | KDD 2026 |
+| [MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://doi.org/10.1145/3770855.3818032) | None | KDD 2026 |
 | [OLIVIA: Harmonizing Time Series Foundation Models with Power Spectral Density](https://arxiv.org/abs/2605.17340) | [Code](https://github.com/TSTS13/Olivia) | ICML 2026 |
 | [TimeOmni-VL: Unified Models for Time Series Understanding and Generation](https://arxiv.org/abs/2602.17149) | [Code](https://github.com/AntonGuan/TimeOmni-VL) | ICML 2026 |
 | [FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models](https://arxiv.org/abs/2605.09081) | [Code](https://github.com/Forgis-Labs/FactoryNet) | ICML 2026 |
@@ -464,6 +481,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Online Irregular Multivariate Time Series Forecasting via Uncertainty-Driven Dual-Expert Calibration](https://doi.org/10.1145/3770855.3817729) | [Code](https://github.com/HaonanWen/Under-Cali) | KDD 2026 |
+| [MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data](https://www.vldb.org/pvldb/vol19/p170-li.pdf) | [Code](https://github.com/hyLiu1994/MH-GIN) | VLDB 2026 |
 | [HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278) | [Code](https://github.com/milaogou/HELIX) | ICML 2026 Spotlight |
 | [Latent Laplace Diffusion for Irregular Multivariate Time Series](https://arxiv.org/abs/2605.19805) | [Code](https://github.com/pixelhero98/LLapDiffusion) | ICML 2026 |
 | [QuITE: Query-Based Irregular Time Series Embedding](https://arxiv.org/abs/2605.28166) | [Code](https://github.com/Meaningfull9502/QuITE) | ICML 2026 |
@@ -493,6 +512,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [PolarFormer: Radial-Angular Latent Modeling for Unconditional Time Series Generation](https://doi.org/10.1145/3770855.3817753) | None | KDD 2026 |
+| [Parallel Complex Diffusion for Scalable Time Series Generation](https://doi.org/10.1145/3770855.3817791) | [Code](https://github.com/RongyaoCai/PaCoDi) | KDD 2026 |
+| [MS-Index: Fast Top-k Subsequence Search for Multivariate Time Series under Euclidean Distance](https://arxiv.org/abs/2512.14723) | [Code](https://github.com/JdHondt/MS-Index) | VLDB 2026 |
 | [Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases](https://arxiv.org/abs/2602.17001) | [Code](https://github.com/Atlamtiz/Sonar-TS) | ICML 2026 |
 | [WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models](https://arxiv.org/abs/2503.06231) | [Code](https://github.com/adis98/WaveStitch) | SIGMOD 2026 |
 | [FLEA: Frequency-based Lossless Encoding Algorithm for Periodic Time Series](https://dl.acm.org/doi/10.1145/3802063) | [Code](https://github.com/apache/iotdb/tree/research/encoding-periodic) | SIGMOD 2026 |
@@ -517,6 +539,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimeBlocks: Versatile and Continual Time-Series Blockbase](https://doi.org/10.1145/3770855.3817919) | None | KDD 2026 |
+| [Inferring Events from Time Series using Language Models](https://aclanthology.org/2026.acl-long.157/) | [Code](https://github.com/hartvigsen-group/GAMETime) | ACL 2026 |
+| [STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://aclanthology.org/2026.acl-long.702/) | [Code](https://github.com/LingFengGold/STReasoner) | ACL 2026 |
+| [LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models](https://aclanthology.org/2026.acl-long.793/) | [Code](https://github.com/Wen-xuan-Xu/LENS) | ACL 2026 |
+| [CLaP - State Detection from Time Series](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) | [Code](https://github.com/ermshaua/classification-label-profile) | VLDB 2026 |
+| [Continuous Query for Top-K Maximal Sum Intervals over Streaming Data](https://www.vldb.org/pvldb/vol19/p2289-zhang.pdf) | None | VLDB 2026 |
 | [Interpretability in Deep Time Series Models Demands Semantic Alignment](https://arxiv.org/abs/2602.02239) | None | ICML 2026 |
 | [Modeling Dynamic Mixtures of Time-Delay Systems from Streaming Time Series](https://arxiv.org/abs/2605.26191) | None | IJCAI 2026 |
 | [A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective](https://arxiv.org/abs/2502.10721) | [Code](https://github.com/decisionintelligence/CS4TS) | IJCAI 2026 |
@@ -531,6 +559,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Adaptive Prototypical Contrastive Learning for Time Series Clustering](https://doi.org/10.1145/3770855.3817773) | [Code (partial)](https://github.com/William-Liwei/APCL) | KDD 2026 |
+| [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](https://openaccess.thecvf.com/content/CVPR2026/html/Swain_Coupling_Liquid_Time-Constant_Encoders_with_Modern_Hopfield_Memory_CVPR_2026_paper.html) | None | CVPR 2026 |
 | [Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/abs/2602.18645) | [Code](https://github.com/mims-harvard/ARTIST) | ICML 2026 |
 | [PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](https://arxiv.org/abs/2602.23161) | [Code](https://github.com/decisionintelligence/PATRA) | ICML 2026 |
 | [Divide and Contrast: Learning Robust Temporal Features Without Augmentation](https://arxiv.org/abs/2605.21241) | [Code](https://github.com/sfi-norwai/Di-COT) | ICML 2026 |
@@ -577,6 +607,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE](https://doi.org/10.1145/3770855.3817786) | [Code](https://github.com/kuxit/AnchorMoE) | KDD 2026 |
+| [ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents](https://aclanthology.org/2026.acl-long.684/) | [Code](https://github.com/cruiseresearchgroup/ZARA) | ACL 2026 |
+| [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](https://openaccess.thecvf.com/content/CVPR2026/html/Mishra_Towards_Uncertainty-aware_Unsupervised_Domain_Adaptation_for_Videos_and_Time-Series_with_CVPR_2026_paper.html) | [Code](https://github.com/mynameanonymous/CausalOT) | CVPR 2026 |
 | [INSHAPE: Instance-Level Shapelets for Interpretable Time-Series Classification](https://arxiv.org/abs/2605.20088) | None | IJCAI 2026 |
 | [CASE-Net: Deep Spatio-Temporal Representation Learning via Causal Attention and Channel Recalibration for Multivariate Time Series Classification](https://arxiv.org/abs/2605.22043) | None | IJCAI 2026 |
 | [We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification](https://arxiv.org/abs/2601.10312) | [Code](https://github.com/ZhipengLiu75/DualCD) | WWW 2026 |
