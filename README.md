@@ -18,6 +18,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/10/5: **Add NeurIPS 2026 Papers**
+
+🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
+
 🚩 2026/9/24: **Add KDD 2026 Papers (Round 2)**
 
 🚩 2026/9/24: **Add VLDB 2026 Papers**
@@ -150,6 +154,22 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [AdaST: Adaptive Coupling for Spatial-Temporal Forecasting](https://arxiv.org/abs/2609.36119) | [Code](https://github.com/LzyFischer/AdaST) | NeurIPS 2026 |
+| [AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166) | None | NeurIPS 2026 |
+| [Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://arxiv.org/abs/2607.22599) | [Code](https://github.com/synlp/DiffDiff) | NeurIPS 2026 |
+| [DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2609.32363) | [Code](https://github.com/wwy155/DiffPTS) | NeurIPS 2026 |
+| [Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting](https://arxiv.org/abs/2606.10592) | None | NeurIPS 2026 |
+| [Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters](https://arxiv.org/abs/2605.06032) | [Code](https://github.com/hugoiscracked/synthetic-ts) | NeurIPS 2026 |
+| [Ensemble Modeling for Time Series Forecasting: an Adaptive Robust Optimization Approach](https://arxiv.org/abs/2304.04308) | [Code](https://github.com/leobix/adaptive_ensemble) | NeurIPS 2026 |
+| [Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](https://arxiv.org/abs/2606.13571) | None | NeurIPS 2026 |
+| [fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468) | [Code](https://github.com/autogluon/fev) | NeurIPS 2026 |
+| [Filtered Conformal Ellipsoids for Graph-Native Time Series](https://arxiv.org/abs/2606.17014) | [Code](https://github.com/YannickLimmer/filter-cp) | NeurIPS 2026 |
+| [FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253) | [Code](https://huggingface.co/DecisionIntelligence/FLAME/tree/main) | NeurIPS 2026 |
+| [Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742) | [Code](https://github.com/Day333/CvLoss) | NeurIPS 2026 |
+| [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2605.00466) | None | NeurIPS 2026 |
+| [Rethinking Post-Training Recipes for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2605.29401) | None | NeurIPS 2026 |
+| [TimeES: Probabilistic and Deterministic Time Series Forecasting via Evolutionary Spectra](https://arxiv.org/abs/2609.32384) | [Code](https://github.com/wwy155/TimeES) | NeurIPS 2026 |
+| [To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114) | None | NeurIPS 2026 |
 | [CCD: Capturing Cross-Correlations with Deformable Convolutional Networks for Multivariate Time Series Forecasting](https://doi.org/10.1145/3770855.3817648) | [Code](https://github.com/decisionintelligence/CCD) | KDD 2026 |
 | [CAST-Norm: Coupled Adaptive Spatio-Temporal Normalization for Multivariate Time Series Forecasting](https://doi.org/10.1145/3770855.3817667) | [Code](https://github.com/xhhmacau/CAST_Norm) | KDD 2026 |
 | [Stationarity-Aware Retrieval-Augmented Time Series Forecasting](https://doi.org/10.1145/3770855.3817813) | [Code](https://github.com/ShiqiaoZhou/SARAF) | KDD 2026 |
@@ -381,6 +401,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](https://arxiv.org/abs/2602.01635) | None | NeurIPS 2026 |
+| [Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability](https://arxiv.org/abs/2610.01168) | [Code](https://github.com/scality/shad) | NeurIPS 2026 |
+| [STAR: Boosting Time Series Foundation Models for Anomaly Detection through State-aware Adapter](https://arxiv.org/abs/2510.16014) | [Code](https://github.com/chy181/STAR) | NeurIPS 2026 |
+| [Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344) | None | NeurIPS 2026 |
+| [VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection](https://arxiv.org/abs/2605.23504) | [Code](https://github.com/ari-dasci/S-VACE) | NeurIPS 2026 |
+| [VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection](https://arxiv.org/abs/2602.16681) | [Code](https://github.com/yyyangcoder/VETime) | NeurIPS 2026 |
 | [LatentFlow: Discovering Latent Continuous Dynamics across Channels for Multivariate Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818034) | [Code](https://github.com/SunboTax/LatentFlow) | KDD 2026 |
 | [LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818044) | [Code](https://github.com/DezhengWang/Left) | KDD 2026 |
 | [TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection](https://doi.org/10.1145/3770855.3818062) | [Code](https://github.com/mala-lab/TimeRadar) | KDD 2026 |
@@ -440,6 +466,16 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646) | None | NeurIPS 2026 |
+| [Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling](https://arxiv.org/abs/2605.27286) | [Code (API)](https://github.com/ant-intl/Falcon-TST/tree/main/falconx) | NeurIPS 2026 |
+| [GlucoFM-Bench: Benchmarking Time-Series Foundation Models for Blood Glucose Forecasting](https://arxiv.org/abs/2606.06881) | [Code](https://github.com/Augmented-Health-Lab/GlucoseML_benchmark) | NeurIPS 2026 |
+| [Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models](https://arxiv.org/abs/2509.25826) | [Code](https://github.com/foundation-model-research/Kairos) | NeurIPS 2026 |
+| [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](https://arxiv.org/abs/2606.14222) | [Code](https://github.com/Fifthky/ORCA) | NeurIPS 2026 |
+| [OATS: Online Data Augmentation for Time Series Foundation Models](https://arxiv.org/abs/2601.19040) | [Code](https://github.com/microsoft/TimeCraft/tree/main/OATS) | NeurIPS 2026 |
+| [Raw-Routed Mixture of Adapters: A Causal Intervention for Routing Collapse in Time Series Foundation Models](https://arxiv.org/abs/2609.39445) | None | NeurIPS 2026 |
+| [Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models](https://arxiv.org/abs/2602.06909) | None | NeurIPS 2026 |
+| [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502) | [Code](https://github.com/automl/TempoPFN) | NeurIPS 2026 |
+| [TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning](https://arxiv.org/abs/2606.05878) | [Code](https://github.com/EDF-Lab/ts-icl) | NeurIPS 2026 |
 | [TS-Memory: Plug-and-Play Memory for Time Series Foundation Models](https://doi.org/10.1145/3770855.3817614) | [Code](https://github.com/sisuolv/TS-Memory) | KDD 2026 |
 | [MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://doi.org/10.1145/3770855.3818032) | None | KDD 2026 |
 | [OLIVIA: Harmonizing Time Series Foundation Models with Power Spectral Density](https://arxiv.org/abs/2605.17340) | [Code](https://github.com/TSTS13/Olivia) | ICML 2026 |
@@ -487,6 +523,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119) | None | NeurIPS 2026 |
+| [HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](https://arxiv.org/abs/2606.05239) | [Code](https://github.com/hongfangao/HyFAD) | NeurIPS 2026 |
+| [Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814) | [Code](https://anonymous.4open.science/r/CircuITS-for-IMTS-8EED) | NeurIPS 2026 |
+| [ProCTI: Prototype-Refined Global Conditioning for Diffusion-Based Time Series Imputation](https://arxiv.org/abs/2609.37632) | [Code](https://github.com/fariza25/ProCTI) | NeurIPS 2026 |
 | [Online Irregular Multivariate Time Series Forecasting via Uncertainty-Driven Dual-Expert Calibration](https://doi.org/10.1145/3770855.3817729) | [Code](https://github.com/HaonanWen/Under-Cali) | KDD 2026 |
 | [MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data](https://www.vldb.org/pvldb/vol19/p170-li.pdf) | [Code](https://github.com/hyLiu1994/MH-GIN) | VLDB 2026 |
 | [HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278) | [Code](https://github.com/milaogou/HELIX) | ICML 2026 Spotlight |
@@ -518,6 +558,14 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [A Locally Tokenized Generative Model for Robust Time-Series Watermarking](https://arxiv.org/abs/2608.19727) | None | NeurIPS 2026 |
+| [E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation](https://arxiv.org/abs/2606.01634) | [Code](https://anonymous.4open.science/r/E4GEN) | NeurIPS 2026 |
+| [Generating Financial Time Series by Matching Random Convolutional Features](https://arxiv.org/abs/2606.05138) | None | NeurIPS 2026 |
+| [PrismFlow: Residual Dynamics for Flow Matching in Time-Series Generation](https://arxiv.org/abs/2605.28867) | None | NeurIPS 2026 |
+| [SDFlow: Similarity-Driven Flow Matching for Time Series Generation](https://arxiv.org/abs/2605.05736) | [Code](https://github.com/William-Liwei/SDFlow) | NeurIPS 2026 |
+| [TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization](https://arxiv.org/abs/2605.01418) | [Code](https://anonymous.4open.science/r/TimeTok-63A7) | NeurIPS 2026 |
+| [TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning](https://arxiv.org/abs/2606.03629) | [Code](https://github.com/clsr1008/TSQualityAgent) | NeurIPS 2026 |
+| [Universal Time Series Generation with Neural Controlled Differential Equations](https://arxiv.org/abs/2605.28507) | [Code](https://github.com/hits-mli/gslices) | NeurIPS 2026 |
 | [PolarFormer: Radial-Angular Latent Modeling for Unconditional Time Series Generation](https://doi.org/10.1145/3770855.3817753) | None | KDD 2026 |
 | [Parallel Complex Diffusion for Scalable Time Series Generation](https://doi.org/10.1145/3770855.3817791) | [Code](https://github.com/RongyaoCai/PaCoDi) | KDD 2026 |
 | [MS-Index: Fast Top-k Subsequence Search for Multivariate Time Series under Euclidean Distance](https://arxiv.org/abs/2512.14723) | [Code](https://github.com/JdHondt/MS-Index) | VLDB 2026 |
@@ -545,6 +593,16 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [A Set-Sequence Model for Time Series](https://arxiv.org/abs/2505.11243) | None | NeurIPS 2026 |
+| [CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series](https://arxiv.org/abs/2605.16919) | [Code](https://anonymous.4open.science/r/Causal-Anchored-Simplex-Transport-8775) | NeurIPS 2026 |
+| [Direct Estimation of Schrödinger Bridge Time-Series Drifts: Finite-Sample, Asymptotic, and Adaptive Guarantees](https://arxiv.org/abs/2605.05432) | None | NeurIPS 2026 |
+| [Entropy Guided Dynamic Patch Segmentation for Time Series Transformers](https://arxiv.org/abs/2509.26157) | [Code](https://github.com/Sachithx/EntroPE) | NeurIPS 2026 |
+| [High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series](https://arxiv.org/abs/2609.30565) | None | NeurIPS 2026 |
+| [Progressive Memory Transformer: Memory-Aware Attention for Time-Series](https://arxiv.org/abs/2609.31351) | None | NeurIPS 2026 |
+| [Revitalizing Medical Time Series with Vision-Informed Retrieval: A Vision-Language Perspective](https://arxiv.org/abs/2609.34652) | [Code](https://github.com/Levi-Ackman/ViRe) | NeurIPS 2026 |
+| [TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning](https://arxiv.org/abs/2605.10038) | None | NeurIPS 2026 |
+| [Interpretable time series analysis with Gumbel dynamics](https://arxiv.org/abs/2509.21578) | [Code](https://github.com/yiliuw/GDM) | NeurIPS 2026 |
+| [Why Do Time Series Models Need Long Context Windows?](https://arxiv.org/abs/2606.01999) | None | NeurIPS 2026 |
 | [TimeBlocks: Versatile and Continual Time-Series Blockbase](https://doi.org/10.1145/3770855.3817919) | None | KDD 2026 |
 | [Inferring Events from Time Series using Language Models](https://aclanthology.org/2026.acl-long.157/) | [Code](https://github.com/hartvigsen-group/GAMETime) | ACL 2026 |
 | [STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://aclanthology.org/2026.acl-long.702/) | [Code](https://github.com/LingFengGold/STReasoner) | ACL 2026 |
@@ -565,6 +623,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [OTIS: Learning High-Quality Time Series Features With Tiny Encoders](https://arxiv.org/abs/2410.07299) | [Code](https://github.com/oetu/otis) | NeurIPS 2026 |
+| [STEP: Learning STructured Embeddings for Progressive Time Series](https://arxiv.org/abs/2605.31061) | [Code](https://github.com/LucasStill/STEP) | NeurIPS 2026 |
 | [Adaptive Prototypical Contrastive Learning for Time Series Clustering](https://doi.org/10.1145/3770855.3817773) | [Code (partial)](https://github.com/William-Liwei/APCL) | KDD 2026 |
 | [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](https://openaccess.thecvf.com/content/CVPR2026/html/Swain_Coupling_Liquid_Time-Constant_Encoders_with_Modern_Hopfield_Memory_CVPR_2026_paper.html) | None | CVPR 2026 |
 | [Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/abs/2602.18645) | [Code](https://github.com/mims-harvard/ARTIST) | ICML 2026 |
@@ -600,6 +660,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CausalCompass: Evaluating the Robustness of Time-Series Causal Discovery in Misspecified Scenarios](https://arxiv.org/abs/2602.07915) | [Code](https://github.com/huiyang-yi/CausalCompass) | NeurIPS 2026 |
+| [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) | [Code](https://github.com/shichengf/mosaic) | NeurIPS 2026 |
 | [Confounder-Aware Causal Graph Learning Framework for Multivariate Time Series Analysis](https://dl.acm.org/doi/10.1145/3773966.3779366) | None | WSDM 2026 |
 | [Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism](https://www.arxiv.org/abs/2505.07180) | None | IJCAI 2025 |
 | [DyCAST: Learning Dynamic Causal Structure from Time Series](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3DWjDjem8mWE) | None | ICLR 2025 |
