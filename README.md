@@ -18,6 +18,14 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
+🚩 2026/10/29: **Add EMNLP 2026 Papers**
+
+🚩 2026/10/29: **Add MM 2026 Papers**
+
+🚩 2026/10/29: **Add CIKM 2026 Papers**
+
+🚩 2026/10/29: **Add ICDM 2026 Papers**
+
 🚩 2026/10/29: **Update NeurIPS 2026 Papers**
 
 🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
@@ -154,6 +162,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002) | None | EMNLP 2026 |
+| [Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756) | [Code](https://github.com/Zh-XY22/F-LLM) | MM 2026 |
+| [Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630) | [Code](https://github.com/ustc-time-series/Time-R1) | CIKM 2026 |
+| [SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting--Extended Version](https://arxiv.org/abs/2608.17164) | [Code](https://anonymous.4open.science/r/ScenarioDiff_ICDM-2C4C) | ICDM 2026 |
 | [AdaST: Adaptive Coupling for Spatial-Temporal Forecasting](https://arxiv.org/abs/2609.36119) | [Code](https://github.com/LzyFischer/AdaST) | NeurIPS 2026 |
 | [AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166) | None | NeurIPS 2026 |
 | [Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://arxiv.org/abs/2607.22599) | [Code](https://github.com/synlp/DiffDiff) | NeurIPS 2026 |
@@ -524,6 +536,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116) | [Code](https://github.com/RazeenLI/FADTI) | ICDM 2026 |
 | [Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119) | None | NeurIPS 2026 |
 | [HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](https://arxiv.org/abs/2606.05239) | [Code](https://github.com/hongfangao/HyFAD) | NeurIPS 2026 |
 | [Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814) | [Code](https://anonymous.4open.science/r/CircuITS-for-IMTS-8EED) | NeurIPS 2026 |
@@ -559,6 +572,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [UPLOTS: A Unified Pretrained Language Model for Constrained Time-series Generation](https://arxiv.org/abs/2606.10466) | [Code](https://github.com/cruiseresearchgroup/UPLOTS) | CIKM 2026 |
 | [A Locally Tokenized Generative Model for Robust Time-Series Watermarking](https://arxiv.org/abs/2608.19727) | None | NeurIPS 2026 |
 | [E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation](https://arxiv.org/abs/2606.01634) | [Code](https://anonymous.4open.science/r/E4GEN) | NeurIPS 2026 |
 | [Generating Financial Time Series by Matching Random Convolutional Features](https://arxiv.org/abs/2606.05138) | None | NeurIPS 2026 |
@@ -676,6 +690,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Empowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning](https://arxiv.org/abs/2605.09395) | [Code](https://github.com/HuangJW0821/MarsTSC) | MM 2026 |
 | [AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE](https://doi.org/10.1145/3770855.3817786) | [Code](https://github.com/kuxit/AnchorMoE) | KDD 2026 |
 | [ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents](https://aclanthology.org/2026.acl-long.684/) | [Code](https://github.com/cruiseresearchgroup/ZARA) | ACL 2026 |
 | [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](https://openaccess.thecvf.com/content/CVPR2026/html/Mishra_Towards_Uncertainty-aware_Unsupervised_Domain_Adaptation_for_Videos_and_Time-Series_with_CVPR_2026_paper.html) | [Code](https://github.com/mynameanonymous/CausalOT) | CVPR 2026 |
