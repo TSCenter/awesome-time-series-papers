@@ -18,7 +18,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/10/5: **Add NeurIPS 2026 Papers**
+🚩 2026/10/29: **Update NeurIPS 2026 Papers**
 
 🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
 
@@ -466,6 +466,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](https://arxiv.org/abs/2608.05571) | [Code](https://github.com/masadi-99/align-rag) | NeurIPS 2026 |
 | [Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646) | None | NeurIPS 2026 |
 | [Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling](https://arxiv.org/abs/2605.27286) | [Code (API)](https://github.com/ant-intl/Falcon-TST/tree/main/falconx) | NeurIPS 2026 |
 | [GlucoFM-Bench: Benchmarking Time-Series Foundation Models for Blood Glucose Forecasting](https://arxiv.org/abs/2606.06881) | [Code](https://github.com/Augmented-Health-Lab/GlucoseML_benchmark) | NeurIPS 2026 |
