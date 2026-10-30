@@ -18,7 +18,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/10/29: **Add EMNLP 2026 Papers**
+🚩 2026/10/30: **Update AAAI 2026 Papers**
+
+🚩 2026/10/30: **Update EMNLP 2026 Papers**
 
 🚩 2026/10/29: **Add MM 2026 Papers**
 
@@ -67,8 +69,6 @@ This repository is a comprehensive collection of recent research papers and reso
 <hr>
 
 🚩 2025/12/28: **Add ICDE 2026 Papers (Round 1)**
-
-🚩 2025/12/17: **Add AAAI 2026 Papers**
 
 🚩 2025/11/12: **Add ACL 2025 Papers**
 
@@ -239,6 +239,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring](https://openreview.net/forum?id=ZHW5pp5nE5) | None | ICLR 2026 |
 | [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://openreview.net/forum?id=Uv3efQiPBZ) | None | ICLR 2026 |
 | [Online time series prediction using feature adjustment](https://openreview.net/forum?id=s4U2FWEMTU) | None | ICLR 2026 |
+| [XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237) | [Code](https://github.com/Zaiwen/XLinear) | AAAI 2026 |
+| [Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229) | [Code](https://github.com/decisionintelligence/DTAF) | AAAI 2026 |
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 
@@ -608,6 +610,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](https://arxiv.org/abs/2603.11479) | [Code](https://github.com/cw-wan/SELA) | EMNLP 2026 |
 | [A Set-Sequence Model for Time Series](https://arxiv.org/abs/2505.11243) | None | NeurIPS 2026 |
 | [CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series](https://arxiv.org/abs/2605.16919) | [Code](https://anonymous.4open.science/r/Causal-Anchored-Simplex-Transport-8775) | NeurIPS 2026 |
 | [Direct Estimation of Schrödinger Bridge Time-Series Drifts: Finite-Sample, Asymptotic, and Adaptive Guarantees](https://arxiv.org/abs/2605.05432) | None | NeurIPS 2026 |
