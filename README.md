@@ -18,17 +18,15 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/10/30: **Update AAAI 2026 Papers**
+🚩 2026/11/6: **Update NeurIPS 2026 and EMNLP 2026 Papers**
 
-🚩 2026/10/30: **Update EMNLP 2026 Papers**
+🚩 2026/10/30: **Update AAAI 2026 Papers**
 
 🚩 2026/10/29: **Add MM 2026 Papers**
 
 🚩 2026/10/29: **Add CIKM 2026 Papers**
 
 🚩 2026/10/29: **Add ICDM 2026 Papers**
-
-🚩 2026/10/29: **Update NeurIPS 2026 Papers**
 
 🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
 
@@ -166,6 +164,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756) | [Code](https://github.com/Zh-XY22/F-LLM) | MM 2026 |
 | [Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630) | [Code](https://github.com/ustc-time-series/Time-R1) | CIKM 2026 |
 | [SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting--Extended Version](https://arxiv.org/abs/2608.17164) | [Code](https://anonymous.4open.science/r/ScenarioDiff_ICDM-2C4C) | ICDM 2026 |
+| [TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2610.17864) | [Code](https://github.com/yangzeli/TStruct) | NeurIPS 2026 |
 | [AdaST: Adaptive Coupling for Spatial-Temporal Forecasting](https://arxiv.org/abs/2609.36119) | [Code](https://github.com/LzyFischer/AdaST) | NeurIPS 2026 |
 | [AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166) | None | NeurIPS 2026 |
 | [Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://arxiv.org/abs/2607.22599) | [Code](https://github.com/synlp/DiffDiff) | NeurIPS 2026 |
@@ -610,6 +609,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [HALT: Hallucination Assessment via Log-probs as Time series](https://arxiv.org/abs/2602.02888) | None | EMNLP 2026 |
 | [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](https://arxiv.org/abs/2603.11479) | [Code](https://github.com/cw-wan/SELA) | EMNLP 2026 |
 | [A Set-Sequence Model for Time Series](https://arxiv.org/abs/2505.11243) | None | NeurIPS 2026 |
 | [CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series](https://arxiv.org/abs/2605.16919) | [Code](https://anonymous.4open.science/r/Causal-Anchored-Simplex-Transport-8775) | NeurIPS 2026 |
