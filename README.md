@@ -166,7 +166,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756) | [Code](https://github.com/Zh-XY22/F-LLM) | MM 2026 |
 | [Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630) | [Code](https://github.com/ustc-time-series/Time-R1) | CIKM 2026 |
 | [SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting--Extended Version](https://arxiv.org/abs/2608.17164) | [Code](https://anonymous.4open.science/r/ScenarioDiff_ICDM-2C4C) | ICDM 2026 |
-| [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2611.04760) | [Code](https://github.com/azencot-group/KGO) | NeurIPS 2026 (track unverified) |
+| [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2611.04760) | [Code](https://github.com/azencot-group/KGO) | NeurIPS 2026 |
 | [TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2610.17864) | [Code](https://github.com/yangzeli/TStruct) | NeurIPS 2026 |
 | [AdaST: Adaptive Coupling for Spatial-Temporal Forecasting](https://arxiv.org/abs/2609.36119) | [Code](https://github.com/LzyFischer/AdaST) | NeurIPS 2026 |
 | [AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166) | None | NeurIPS 2026 |
