@@ -18,9 +18,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Recent Updates	
 
-🚩 2026/11/8: **Update NeurIPS 2026 Papers**
+🚩 2026/11/13: **Update EMNLP 2026 Papers**
 
-🚩 2026/11/6: **Update EMNLP 2026 Papers**
+🚩 2026/11/13: **Update ICML 2026 Papers**
+
+🚩 2026/11/8: **Update NeurIPS 2026 Papers**
 
 🚩 2026/10/30: **Update AAAI 2026 Papers**
 
@@ -39,8 +41,6 @@ This repository is a comprehensive collection of recent research papers and reso
 🚩 2026/9/24: **Add ACL 2026 Papers**
 
 🚩 2026/9/24: **Add CVPR 2026 Papers**
-
-🚩 2026/8/12: **Add ICML 2026 Papers**
 
 🚩 2026/6/15: **Update Code Resource**
 
@@ -162,6 +162,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473) | [Code](https://github.com/D2I-Group/metacaster) | EMNLP 2026 |
 | [KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002) | None | EMNLP 2026 |
 | [Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756) | [Code](https://github.com/Zh-XY22/F-LLM) | MM 2026 |
 | [Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630) | [Code](https://github.com/ustc-time-series/Time-R1) | CIKM 2026 |
@@ -193,6 +194,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1014/) | [Code](https://github.com/sunzju/MGSAA) | ACL 2026 |
 | [TransLLM: A Unified Multi-Task Large Language Model for Urban Transportation via Learnable Prompting](https://aclanthology.org/2026.acl-long.1195/) | [Code](https://github.com/lengjiaming/TransLLM) | ACL 2026 |
 | [TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1208/) | None | ACL 2026 |
+| [What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://arxiv.org/abs/2605.14422) | [Code](https://github.com/seqml/TADiff) | ICML 2026 |
 | [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](https://openreview.net/forum?id=4kdkm56U5b) | [Code](https://github.com/KurohaneNioko/EADiff) | ICML 2026 |
 | [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://arxiv.org/abs/2605.19249) | [Code](https://github.com/yihannnnn/KUP-BI) | ICML 2026 |
 | [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](https://arxiv.org/abs/2605.01231) | [Code](https://github.com/BenchCouncil/CombinationTS) | ICML 2026 |
