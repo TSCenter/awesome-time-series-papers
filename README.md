@@ -20,7 +20,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 🚩 2026/11/13: **Update EMNLP 2026 Papers**
 
-🚩 2026/11/13: **Update ICML 2026 Papers**
+🚩 2026/11/20: **Update ICML 2026 Papers**
 
 🚩 2026/11/8: **Update NeurIPS 2026 Papers**
 
@@ -194,6 +194,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1014/) | [Code](https://github.com/sunzju/MGSAA) | ACL 2026 |
 | [TransLLM: A Unified Multi-Task Large Language Model for Urban Transportation via Learnable Prompting](https://aclanthology.org/2026.acl-long.1195/) | [Code](https://github.com/lengjiaming/TransLLM) | ACL 2026 |
 | [TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://aclanthology.org/2026.acl-long.1208/) | None | ACL 2026 |
+| [DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](https://arxiv.org/abs/2601.21726) | [Code](https://github.com/CityMind-Lab/DropoutTS) | ICML 2026 |
 | [What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://arxiv.org/abs/2605.14422) | [Code](https://github.com/seqml/TADiff) | ICML 2026 |
 | [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](https://openreview.net/forum?id=4kdkm56U5b) | [Code](https://github.com/KurohaneNioko/EADiff) | ICML 2026 |
 | [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://arxiv.org/abs/2605.19249) | [Code](https://github.com/yihannnnn/KUP-BI) | ICML 2026 |
