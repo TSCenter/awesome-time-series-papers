@@ -14,13 +14,15 @@ This repository is a comprehensive collection of recent research papers and reso
 
 **Feel free to suggest notable works in the issues or submit a pull request!**
 
+🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
+
 **Star us on GitHub if you find this project helpful.👍👍👍**
 
 ## Recent Updates	
 
-🚩 2026/11/13: **Update EMNLP 2026 Papers**
-
 🚩 2026/11/20: **Update ICML 2026 Papers**
+
+🚩 2026/11/13: **Update EMNLP 2026 Papers**
 
 🚩 2026/11/8: **Update NeurIPS 2026 Papers**
 
@@ -31,8 +33,6 @@ This repository is a comprehensive collection of recent research papers and reso
 🚩 2026/10/29: **Add CIKM 2026 Papers**
 
 🚩 2026/10/29: **Add ICDM 2026 Papers**
-
-🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
 
 🚩 2026/9/24: **Add KDD 2026 Papers (Round 2)**
 
