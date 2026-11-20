@@ -249,7 +249,9 @@ This repository is a comprehensive collection of recent research papers and reso
 | [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/pdf/2511.11991) | None | AAAI 2026 |
 | [CometNet: Contextual Motif-guided Long-term Time Series Forecasting](https://arxiv.org/abs/2511.08049) | None | AAAI 2026 |
 
-### 2025
+<details>
+<summary><b> 💫View 2025 Papers</b></summary>
+<hr>
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
@@ -332,6 +334,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183) | None | AAAI 2025 |
 | [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216) | None | AAAI 2025 |
 
+
+</details>
 
 <details>
 <summary><b> 💫View 2024 Papers</b></summary>
