@@ -14,7 +14,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 **Feel free to suggest notable works in the issues or submit a pull request!**
 
-🎉 2026/9: **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
+🎉🥳🎊 **[Awesome-Time-Series-Papers](https://github.com/TSCenter/awesome-time-series-papers) reached 1.1k+ GitHub stars.**
 
 **Star us on GitHub if you find this project helpful.👍👍👍**
 
